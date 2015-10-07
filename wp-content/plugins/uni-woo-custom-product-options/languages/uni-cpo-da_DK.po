@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni Woo Custom Product Options v1.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 22:21+0200\n"
+"PO-Revision-Date: 2015-06-05 22:21+0200\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ woocommerce
+#: includes/html-product-attribute.php:3
+msgid "Remove"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:4
+msgid "Click to toggle"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:12
+msgid "Name"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:25
+msgid "Value(s)"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:30
+msgid "Select terms"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:48
+msgid "Select all"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:49
+msgid "Select none"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:50 uni-cpo-product-options.php:249
+#: uni-cpo-product-options.php:891
+msgid "Add new"
+msgstr ""
+
+# @ woocommerce
+#: includes/html-product-attribute.php:75
+msgid "Visible on the product page"
+msgstr ""
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:80
+msgid "Must be filled/selected by user"
+msgstr "Skal udfyldes / vælges af brugeren"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:87
+msgid "Dropdown (default)"
+msgstr "Dropdown (standard)"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:88
+msgid "Text input"
+msgstr "Tekst input"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:89
+#, fuzzy
+msgid "Text input number"
+msgstr "Tekst input"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:90
+msgid "Radio input"
+msgstr "Radio indgang"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:91
+msgid "Checkbox input"
+msgstr "Afkrydsningsfelt input"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:92
+msgid "Checkboxes"
+msgstr "Checkboxes"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:93
+msgid "Color (palette only)"
+msgstr "Farve (paletten kun)"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:94
+msgid "Color (picker only)"
+msgstr "Color (picker kun)"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:95
+msgid "Textarea"
+msgstr "Textarea"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:97
+msgid "Type of field"
+msgstr "Type af feltet"
+
+# @ uni-cpo
+#: includes/html-product-attribute.php:111
+msgid "Image size"
+msgstr "Billedstørrelse"
+
+# @ uni-cpo
+#: uni-cpo-admin-options.php:11
+msgid "Uni CPO"
+msgstr "Uni CPO"
+
+# @ uni-cpo
+#: uni-cpo-admin-options.php:25
+msgid "UNI CPO Plugin Options"
+msgstr "UNI CPO Plugin Indstillinger"
+
+# @ uni-cpo
+#: uni-cpo-admin-options.php:29
+msgid "General settings"
+msgstr "Generelle indstillinger"
+
+# @ uni-cpo
+#: uni-cpo-admin-options.php:33
+msgid "Custom selector (id/class) for a product price container"
+msgstr "Brugerdefineret vælgeren (id / klasse) for et produkt pris beholder"
+
+# @ uni-cpo
+#: uni-cpo-admin-options.php:36
+msgid ""
+"By default, the selector for a product price container is \".price span\". "
+"However html markup of this block may differ from the default, so you have "
+"to define a new one."
+msgstr ""
+"Som standard er vælgeren for et produkt pris beholder \".Pris span\". Men "
+"html markup af denne blok kan afvige fra standard, så du er nødt til at "
+"definere en ny."
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:21
+msgid "UNI CPO Attribute Meta Fields"
+msgstr "UNI CPO Egenskab Meta Fields"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:23 uni-cpo-attr-options.php:76
+msgid "Price"
+msgstr "Pris"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:25
+msgid "Enter a price for this option (optional)"
+msgstr "Indtast en pris for denne mulighed (valgfrit)"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:28 uni-cpo-attr-options.php:83
+msgid "Color (for color input)"
+msgstr "Farve (for farve input)"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:30
+msgid ""
+"Choose a color for this option (optional). Chosen color will be placed into "
+"the palette for the color input."
+msgstr ""
+"Vælg en farve for denne mulighed (valgfrit). Valgte farve vil blive placeret "
+"i paletten til farven input."
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:79
+msgid ""
+"Enter a price for this option. <strong>Use of different types of fields: all "
+"types except text input and textarea.</strong>"
+msgstr ""
+"Indtast en pris for denne mulighed. <strong> Anvendelse af forskellige typer "
+"af felter:. alle typer undtagen tekstindtastning og textarea </ strong>"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:86
+msgid ""
+"Choose a color for this option. Chosen color will be placed into the palette "
+"for the color input. <strong>Use of different types of fields: only for "
+"color input with palette.</strong>"
+msgstr ""
+"Vælg en farve for denne mulighed. Valgte farve vil blive placeret i paletten "
+"til farven input. <strong> Anvendelse af forskellige typer af felter:. kun "
+"for farve input med palet </ strong>"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:90
+msgid "Image"
+msgstr "Billede"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:92
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:96
+msgid "Upload/Add image"
+msgstr "Upload / Tilføj billede"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:97
+msgid "Remove image"
+msgstr "Fjern billede"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:120
+msgid "Choose an image"
+msgstr "Vælg et billede"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:122
+msgid "Use image"
+msgstr "Brug billede"
+
+# @ uni-cpo
+#: uni-cpo-attr-options.php:149
+msgid ""
+"<strong>Use of different types of fields: only for radio inputs and "
+"checkboxes.</strong>"
+msgstr ""
+"<strong> Anvendelse af forskellige typer af felter:. kun for radio- input og "
+"afkrydsningsfelter </ strong>"
+
+#: uni-cpo-attr-options.php:153
+msgid "Min. value (is used for input number only!)"
+msgstr ""
+
+#: uni-cpo-attr-options.php:156
+msgid "Define a min. value (number) that client can choose."
+msgstr ""
+
+#: uni-cpo-attr-options.php:160
+msgid "Max. value (is used for input number only!)"
+msgstr ""
+
+#: uni-cpo-attr-options.php:163
+msgid "Define a max. value (number) that client can choose."
+msgstr ""
+
+#: uni-cpo-attr-options.php:167
+msgid "Default value (is used for both regular text input and input number!)"
+msgstr ""
+
+#: uni-cpo-attr-options.php:170
+msgid ""
+"Define a default value that will be shown for a client at the beginning."
+msgstr ""
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:6
+msgid "CPO Settings"
+msgstr "CPO Indstillinger"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:11
+#, fuzzy
+msgid "CPO Options"
+msgstr "CPO muligheder"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:16
+#, fuzzy
+msgid "CPO Cart Discounts"
+msgstr "CPO Rabatter"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:32
+msgid "Enable price calculation based on custom options?"
+msgstr "Aktiver prisberegning baseret på brugerdefinerede indstillinger?"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:36
+#, fuzzy
+msgid "Enable discounts in the cart based on quantity?"
+msgstr "Aktiver rabatter baseret på kvantitet?"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:41
+#, php-format
+msgid "Min. price (%s)"
+msgstr "Min. pris (%s)"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:44
+msgid "Available options tags (clickable)"
+msgstr "Tilgængelige muligheder tags (klikbare)"
+
+#: uni-cpo-product-options.php:48
+msgid "Price of the product"
+msgstr ""
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:65
+msgid ""
+"Typical math operators: *, +, -, /. You can also use \"(\" and \")\" in the "
+"formula."
+msgstr ""
+"Typiske math operatører: *, +, -, /. Du kan også bruge \"(\" og \")\" i "
+"formlen."
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:67
+msgid ""
+"None of CPO options have been added yet. Maybe you need to reload the page?"
+msgstr ""
+"Ingen af CPO muligheder er blevet tilføjet endnu. Måske har du brug for at "
+"genindlæse siden?"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:70 uni-cpo-product-options.php:168
+#: uni-cpo-product-options.php:243
+msgid "Formula"
+msgstr "Formula"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:72
+msgid ""
+"The name of each field is a slug for this attribute prefixed with \"uni_cpo_"
+"\" and the brackets (\"{}\") from the both sides of the variable. For "
+"example: \"{uni_cpo_width}\" or \"{uni_cpo_pa_thickness}\". The formula "
+"example: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". These special formatted names will be changed to the values of "
+"the price of the attribute during the price calculation. Also you should use "
+"\"{uni_cpo_price}\" if you want to add a price of the product."
+msgstr ""
+"Navnet på hver felt er et slug for denne attribut præfikset \"uni_cpo_\", og "
+"beslagene (\"{}\") fra begge sider af variable. For eksempel: "
+"\"{uni_cpo_width}\" eller \"{uni_cpo_pa_thickness}\". Formlen eksempel: "
+"\"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-tykkelse}\". Disse "
+"særlige formaterede navne vil blive ændret til værdierne af prisen på "
+"attribut under prisberegningen. Du skal også bruge \"{uni_cpo_price}\", hvis "
+"du ønsker at tilføje en pris på produktet."
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:78
+#, fuzzy
+msgid "Min. quantity value"
+msgstr "Discount værdi"
+
+#: uni-cpo-product-options.php:79
+msgid "Max. quantity value"
+msgstr ""
+
+#: uni-cpo-product-options.php:80
+msgid "Starting quantity value"
+msgstr ""
+
+#: uni-cpo-product-options.php:81
+msgid "Increment step value"
+msgstr ""
+
+#: uni-cpo-product-options.php:85
+msgid "Enable conditions?"
+msgstr ""
+
+#: uni-cpo-product-options.php:97 uni-cpo-product-options.php:176
+msgid "Rule"
+msgstr ""
+
+#: uni-cpo-product-options.php:100 uni-cpo-product-options.php:140
+#: uni-cpo-product-options.php:179 uni-cpo-product-options.php:215
+msgid "Quantity"
+msgstr ""
+
+#: uni-cpo-product-options.php:117 uni-cpo-product-options.php:157
+#: uni-cpo-product-options.php:196 uni-cpo-product-options.php:232
+msgid "less then"
+msgstr ""
+
+#: uni-cpo-product-options.php:118 uni-cpo-product-options.php:158
+#: uni-cpo-product-options.php:197 uni-cpo-product-options.php:233
+msgid "equal or less then"
+msgstr ""
+
+#: uni-cpo-product-options.php:119 uni-cpo-product-options.php:159
+#: uni-cpo-product-options.php:198 uni-cpo-product-options.php:234
+msgid "equal"
+msgstr ""
+
+#: uni-cpo-product-options.php:120 uni-cpo-product-options.php:160
+#: uni-cpo-product-options.php:199 uni-cpo-product-options.php:235
+msgid "equal or greater then"
+msgstr ""
+
+#: uni-cpo-product-options.php:121 uni-cpo-product-options.php:161
+#: uni-cpo-product-options.php:200 uni-cpo-product-options.php:236
+msgid "greater then"
+msgstr ""
+
+#: uni-cpo-product-options.php:122 uni-cpo-product-options.php:162
+#: uni-cpo-product-options.php:201 uni-cpo-product-options.php:237
+msgid "is"
+msgstr ""
+
+#: uni-cpo-product-options.php:123 uni-cpo-product-options.php:163
+#: uni-cpo-product-options.php:202 uni-cpo-product-options.php:238
+msgid "is not"
+msgstr ""
+
+#: uni-cpo-product-options.php:125 uni-cpo-product-options.php:165
+#: uni-cpo-product-options.php:204 uni-cpo-product-options.php:240
+msgid "Value"
+msgstr ""
+
+#: uni-cpo-product-options.php:129 uni-cpo-product-options.php:208
+msgid "Disable the second part"
+msgstr ""
+
+#: uni-cpo-product-options.php:130 uni-cpo-product-options.php:209
+msgid "AND"
+msgstr ""
+
+#: uni-cpo-product-options.php:131 uni-cpo-product-options.php:210
+msgid "OR"
+msgstr ""
+
+#: uni-cpo-product-options.php:249 uni-cpo-product-options.php:891
+msgid "Delete"
+msgstr ""
+
+# @ woocommerce
+#: uni-cpo-product-options.php:334
+msgid "Close all"
+msgstr ""
+
+# @ woocommerce
+#: uni-cpo-product-options.php:334
+msgid "Expand all"
+msgstr ""
+
+# @ woocommerce
+#: uni-cpo-product-options.php:380
+msgid "Add"
+msgstr ""
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:382
+msgid "Choose an option..."
+msgstr "Vælg venligst..."
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:394
+msgid "Save CPO options"
+msgstr "Tilbud CPO muligheder"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:836
+msgid "Type of discount"
+msgstr "Type af rabat"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:838
+msgid "Fixed"
+msgstr "Fast"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:839
+msgid "Percent"
+msgstr "Procent"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:852 uni-cpo-product-options.php:874
+msgid "Min. qty"
+msgstr "Min. Antal"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:857 uni-cpo-product-options.php:879
+msgid "Max. qty"
+msgstr "Max. Antal"
+
+# @ uni-cpo
+#: uni-cpo-product-options.php:862 uni-cpo-product-options.php:884
+msgid "Discount value"
+msgstr "Discount værdi"
+
+# @ uni-cpo
+#: uni-cpo.php:62
+#, fuzzy
+msgid "(fill in all required fields to calculate the price)"
+msgstr "Udfyld venligst alle obligatoriske felter!"
+
+#: uni-cpo.php:63
+msgid "Total for"
+msgstr ""
+
+#: uni-cpo.php:64
+msgid "is:"
+msgstr ""
+
+#: uni-cpo.php:207
+#, php-format
+msgid "You save %s!"
+msgstr ""
+
+# @ uni-cpo
+#: uni-cpo.php:379
+msgid "Please, choose..."
+msgstr "Vælg venligst..."
+
+# @ uni-cpo
+#: uni-cpo.php:540
+msgid "Choose"
+msgstr "Vælg"
+
+# @ uni-cpo
+#: uni-cpo.php:541
+msgid "Cancel"
+msgstr "Annuller"
+
+# @ woocommerce
+#: uni-cpo.php:621
+msgid "Select options"
+msgstr ""
+
+# @ uni-cpo
+#: uni-cpo.php:730
+msgid "Please, fill in all required fields!"
+msgstr "Udfyld venligst alle obligatoriske felter!"
+
+# @ uni-cpo
+#: uni-cpo.php:1186 uni-cpo.php:1368
+msgid "Checked"
+msgstr "Kontrolleret"

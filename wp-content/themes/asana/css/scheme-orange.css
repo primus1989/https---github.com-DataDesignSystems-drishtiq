@@ -1,0 +1,222 @@
+.mainItemDesc {background: #f4bb39;}
+.mainItemDesc h3:before {background: #fcebc5;}
+.mainItemDesc p {color: #fcebc5;}
+.mainItemDesc .viewMore, .mainItemDesc .viewMore:visited {border: 2px solid #fcebc5;color: #fcebc5;}
+.mainItemDesc .viewMore:hover {background: #fcebc5;color: #f4bb39;}
+.homeAboutSection .mainItemDesc .viewMore {border: 2px solid #f4bb39;color: #f4bb39;}
+.homeAboutSection .mainItemDesc .viewMore:hover {background: #f4bb39;color: #fff;}
+
+.gridItemDesc {background: #f4bb39;}
+.gridItemDesc h3:before {background: #fcebc5;}
+.gridItemDesc p {color: #fcebc5;}
+.gridItemDesc .viewMore {color: #fcebc5;}
+
+.gridItemWhite .gridItemDesc .viewMore {color: #f4bb39;}
+.gridItemWhite .gridItemDesc .viewMore i path {fill:#f4bb39;}
+
+.gridItemWhite.gridItem2 .gridItemDesc .viewMore i path,
+.gridItemWhite.gridItem .gridItemDesc .viewMore i path {fill:#f4bb39;}
+.gridItemWhite.gridItem2:hover .gridItemDesc .viewMore i path,
+.gridItemWhite.gridItem:hover .gridItemDesc .viewMore i path {fill:#333333;}
+
+.gridItem2 .gridItemDesc .viewMore i path,
+.gridItem .gridItemDesc .viewMore i path {fill:#fcebc5;}
+
+.gridItemVideo i {background: #6dcbb5;}
+.gridItem2 .gridItemDesc {background: rgba(244,187,57,0.9);}
+
+.postItemTime {color: #f4bb39;}
+.postItem:hover h4 a {color: #f4bb39;}
+
+.classesCategory {background: #f4bb39;}
+.viewClasses:hover {color: #f4bb39;}
+
+.loadMoreItems:hover, .showAllItems:hover {background: #f4bb39;border-color: #f4bb39;}
+
+.woocommerce-pagination ul li a.prev.page-numbers:focus, .woocommerce-pagination ul li a.prev.page-numbers:hover {background-color: #f4bb39 !important;}
+.woocommerce-pagination ul li a.next.page-numbers:focus, .woocommerce-pagination ul li a.next.page-numbers:hover {background-color: #f4bb39 !important;}
+.pagination ul li a:hover, .pagination ul li.current, .woocommerce-pagination ul li a:focus, .woocommerce-pagination ul li span.current, .woocommerce-pagination ul li a:hover {background: #f4bb39!important;border-color: #f4bb39!important;}
+
+.footerSocial a:hover {border-color: #f4bb39; background: #f4bb39;}
+.footerMenu li a:hover {color: #f4bb39;}
+
+.homeAboutSection .mainItemDesc h3:before,
+.contactForm h3:before, .contactInfo h3:before, .storyDesc h3:before {background: #f4bb39;}
+.teamItem .overlay {background: rgba(244,187,57,0.8);}
+.teamItemDescWrap .jspDrag {background: #fcebc5;}
+.teamItemDesc p {color: #fcebc5;}
+
+.teamItemDesc {background: #f4bb39;}
+
+.teamItemSocial a {border: 1px solid #fcebc5;color: #fcebc5;}
+.teamItemSocial a:hover {background: #fcebc5;color: #f4bb39;}
+
+.sb_instagram_header {background: #f4bb39;}
+.sb_instagram_header:hover {background: #fcc851;}
+
+.singlePostWrap .singleTitle:before {background: #f4bb39;}
+.singlePostWrap h2 a, .singlePostWrap h2 a:visited {color: #f4bb39;}
+
+.singlePostWrap table th a, .singlePostWrap table th a:visited {color: #f4bb39;}
+.singlePostWrap table td a, .singlePostWrap table td a:visited {color: #f4bb39;}
+
+.singlePostWrap dt a, .singlePostWrap dt a:visited, .singlePostWrap dd a, .singlePostWrap dd a:visited, .singlePostWrap p a, .singlePostWrap p a:visited {color: #f4bb39;}
+
+.singlePostWrap > ul li:before {background: #f4bb39;}
+.singlePostWrap > ol li:before {color: #f4bb39;}
+.singlePostWrap p a, .singlePostWrap p a:visited, .singlePostWrap > ul li a, .singlePostWrap > ul li a:visited, 
+.singlePostWrap > ol li a, .singlePostWrap > ol li a:visited {color: #f4bb39;}
+
+.singlePostWrap blockquote {border-left: 3px solid #f4bb39;}
+.singlePostWrap blockquote p a, .singlePostWrap blockquote p a:visited {color: #f4bb39;}
+.bypostauthor .comment-wrapper .uni-post-author {background-color:#f4bb39;}
+.comment-content p a, .comment-content p a:visited {color: #f4bb39;}
+
+#commentform #submit {border: 2px solid #f4bb39;color: #f4bb39;}
+#commentform #submit:hover {background: #f4bb39;}
+
+.submitContactFormBtn {border: 2px solid #f4bb39;color: #f4bb39;}
+.submitContactFormBtn:hover {background: #f4bb39;}
+
+.wpcf7-form input[type="submit"] {border: 2px solid #f4bb39;color: #f4bb39;}
+.wpcf7-form input[type="submit"]:hover {background: #f4bb39;}
+
+.productFilter li a.active, .productFilter li a:hover {color: #f4bb39;}
+.woocommerce-breadcrumb a:hover {color: #f4bb39!important;}
+.miniCartItem h3 a:hover {color: #f4bb39;}
+
+.btnViewCart, .btnViewCart:visited {border: 2px solid #f4bb39;color: #f4bb39;}
+.btnViewCart:hover {background: #f4bb39;color: #fff;}
+.btnCheckout, .btnCheckout:visited {border: 2px solid #f4bb39;background: #f4bb39;}
+.btnCheckout:hover {background: #fcc851;border-color: #fcc851;}
+
+.eventItemTime {background: #f4bb39;}
+.eventItemDesc h3 a:hover {color: #f4bb39;}
+
+.eventLearnMore, .eventLearnMore:visited {color: #f4bb39;}
+.eventLearnMore i {border: 1px solid #f4bb39;}
+.eventLearnMore i path {fill:#f4bb39;}
+.eventLearnMore:hover i path {fill:#fff;}
+.eventLearnMore:hover i {background: #f4bb39;}
+
+.showMoreEvents:hover {background: #f4bb39;border-color: #f4bb39;}
+.subscribeSubmit {border: 2px solid #f4bb39;background: #f4bb39;}
+.subscribeSubmit:hover {background: #fcc851;border-color: #fcc851;}
+.backToBtn:hover {color: #f4bb39;}
+.nextEventBtn:hover {background: #f4bb39;border-color: #f4bb39;}
+.eventDetailItem {border-bottom: 1px solid #fcc851; background: #f4bb39;}
+.eventDetailItem i {background-color: #fcc851;color: #fcebc5;}
+.cartProduct h4 a:hover {color: #f4bb39;}
+.coupon input[name="apply_coupon"]:hover {background: #f4bb39!important;}
+.actions input[name="update_cart"]:hover {background: #f4bb39!important;}
+
+.woocommerce-cart .wc-proceed-to-checkout .checkout-button {background: #f4bb39!important; border: 2px solid #f4bb39;}
+.woocommerce-cart .wc-proceed-to-checkout .checkout-button:hover {background: #fcc851!important;border-color: #fcc851;} 
+
+.updateCartBtn {border: 2px solid #f4bb39;color: #f4bb39;}
+.updateCartBtn:hover {background: #f4bb39;}
+
+.woocommerce-remove-coupon, .shipping-calculator-button {color: #f4bb39;}
+
+.shipping-calculator-form p button {border: 2px solid #f4bb39!important;color: #f4bb39!important;}
+.shipping-calculator-form p button:hover {background: #f4bb39!important;}
+
+.page.woocommerce-cart .return-to-shop a.button {border: 2px solid #f4bb39;color: #f4bb39;}
+.page.woocommerce-cart .return-to-shop a.button:hover {background: #f4bb39;}
+
+.page-template-templ-wishlist .return-to-shop a.button {border: 2px solid #f4bb39;color: #f4bb39;}
+.page-template-templ-wishlist .return-to-shop a.button:hover {background: #f4bb39;}
+.uni-wishlist-item-title a:hover {color: #f4bb39;}
+.uni-bridallist-title-wrapper .uni-bridallist-title.uni-bridallist-editable button,
+.button.product_type_, .button.add_to_cart_button {border: 2px solid #f4bb39;color: #f4bb39;}
+.uni-bridallist-title-wrapper .uni-bridallist-title.uni-bridallist-editable button:hover,
+.button.product_type_:hover, .button.add_to_cart_button:hover {background: #f4bb39!important;}
+
+#place_order {background: #f4bb39!important; border: 2px solid #f4bb39;}
+#place_order:hover {background: #fcc851!important;border-color: #fcc851;} 
+.cartItem h4 a:hover {color: #f4bb39;}
+.showlogin, .showlogin:visited, .showcoupon, .showcoupon:visited, .lost_password a, .lost_password a:visited {color: #f4bb39;}
+
+body .woocommerce form.checkout_coupon p.form-row input.button, body .woocommerce form.login p.form-row input.button {border: 2px solid #f4bb39;color: #f4bb39;}
+body .woocommerce form.checkout_coupon p.form-row input.button:hover, body .woocommerce form.login p.form-row input.button:hover {background: #f4bb39;}
+body.page.woocommerce-account .singlePostWrap h3 + a.edit {color: #f4bb39;}
+body.page.woocommerce-account .shop_table.shop_table_responsive.my_account_orders .order-number a {color: #f4bb39;}
+body.page.woocommerce-account .shop_table.shop_table_responsive.my_account_orders .button.view {border: 2px solid #f4bb39; color: #f4bb39;}
+body.page.woocommerce-account .shop_table.shop_table_responsive.my_account_orders .button.view:hover {background: #f4bb39;}
+
+.page.woocommerce-account form p input.button {border: 2px solid #f4bb39;color: #f4bb39;}
+.page.woocommerce-account form p input.button:hover {background: #f4bb39;}
+
+.productDesc h1 {color: #f4bb39;}
+.productDesc .product_meta > span a, .productDesc .product_meta > span a:visited {color: #f4bb39;}
+
+.productDesc form.cart .single_add_to_cart_button {border: 2px solid #f4bb39;color: #f4bb39;}
+.productDesc form.cart .single_add_to_cart_button:hover {background: #f4bb39;}
+.productDesc form.cart .single_add_to_cart_button:disabled {color: #f4bb39!important;}
+.single-product .woocommerce-tabs .tabs li.active a, .single-product .woocommerce-tabs .tabs li a:hover {color: #f4bb39!important;}
+
+.woocommerce #review_form p.stars a.star-5.active:after, .woocommerce #review_form p.stars a.star-5:hover:after,
+.woocommerce #review_form p.stars a.star-4.active:after, .woocommerce #review_form p.stars a.star-4:hover:after,
+.woocommerce #review_form p.stars a.star-3.active:after, .woocommerce #review_form p.stars a.star-3:hover:after,
+.woocommerce #review_form p.stars a.star-2.active:after, .woocommerce #review_form p.stars a.star-2:hover:after,
+.woocommerce #review_form p.stars a.star-1.active:after, .woocommerce #review_form p.stars a.star-1:hover:after {font-size: 12px; color: #f4bb39;}
+
+.woocommerce #tab-reviews #reviews #comments ol.commentlist li .comment-text p.meta time {color: #f4bb39;}
+.woocommerce .productDesc .star-rating span::before, .woocommerce #reviews .star-rating span:before {color: #f4bb39;}
+
+.teamItemDescWrap .jspTrack {background: #fcebc5;}
+
+#review_form #commentform #submit {border: 2px solid #f4bb39;color: #f4bb39!important;} 
+#review_form #commentform #submit:hover {background: #f4bb39!important;}
+.uni-bridallist-link:hover i, .uni-bridallist-link:hover,
+.uni-wishlist-link:hover i, .uni-wishlist-link:hover {color: #f4bb39;}
+.uni-bridallist-link.uni-bridallist-link-added, .uni-bridallist-link.uni-bridallist-link-added i,
+.uni-wishlist-link.uni-wishlist-link-added, .uni-wishlist-link.uni-wishlist-link-added i {color: #f4bb39;}
+.classesCallendar .fc-toolbar .fc-button:hover {background: #f4bb39;border-color: #f4bb39;}
+.classesCallendar .fc-event {border-left: 2px solid #f4bb39;}
+.classesCallendar .fc-event.fc-event-yoga {background: #8ce4cf;border-color: #f4bb39;}
+.classesCallendar .fc-event.fc-event-cardio-fitness {background: #71a8ee;border-color: #4183d7;}
+.classesCallendar .fc-event.fc-event-aerobics {background: #f79393;border-color: #e26a6a;}
+.classesCallendar .fc-event.fc-event-pilates {background: #fed579;border-color: #f9bf3b;}
+.classesCallendar .fc-event.fc-event-spinning {background: #94709f;border-color: #674172;}
+
+.classesDescPopup h3 {background: #f4bb39;}
+.page404Wrap a.homePage, .page404Wrap a.homePage:visited {border: 2px solid #f4bb39;color: #f4bb39;}
+.page404Wrap a.homePage:hover {background: #f4bb39;}
+.thankYouWrap .order_details tbody td a {color: #f4bb39!important;}
+
+.coupon input[name="apply_coupon"] {border: 2px solid #f4bb39!important;color: #f4bb39!important;}
+.actions input[name="update_cart"] {border: 2px solid #f4bb39!important;color: #f4bb39!important;}
+
+.shopItem .overlay {background: rgba(244,187,57,0.8);}
+.selectricItems li.selected {background: #f4bb39; border-bottom: 1px solid #f4bb39;}
+.selectricItems li:hover {background: #f4bb39;}
+
+.closeTeamDesc path {fill:#fcebc5;}
+
+/* Sprite */
+.footerSubscribe .btnSubscribe:hover {background-position: 0px -320px;}
+
+/* Update 02.07.2015 */
+.singleEventJoinBtnWrap a {border: 2px solid #f4bb39;color: #f4bb39;}
+.singleEventJoinBtnWrap a:hover {color: #fff;background: #f4bb39;}
+.eventRegistrationWrap h3 {background: #f4bb39;}
+.submitEventRegistrationBtn {border: 2px solid #f4bb39;color: #f4bb39;}
+.submitEventRegistrationBtn:hover {background: #f4bb39;}
+.classesInstructorWrap h4 {color: #f4bb39;}
+
+/* Update 17.07.2015 */
+.singlePostWrap h6 a, .singlePostWrap h6 a:visited,
+.singlePostWrap h5 a, .singlePostWrap h5 a:visited,
+.singlePostWrap h4 a, .singlePostWrap h4 a:visited,
+.singlePostWrap h3 a, .singlePostWrap h3 a:visited,
+.singlePostWrap h2 a, .singlePostWrap h2 a:visited {color: #f4bb39;}
+
+/*Update 07.08.2015 */
+.membershipCardItem h3 {background: #f4bb39;color: #fcebc5;}
+.membershipCard {color: #f4bb39;}
+.membership-card-order, .membership-card-order:visited {border: 2px solid #f4bb39;color: #f4bb39;}
+.membership-card-order:hover {background: #f4bb39;color: #fff;}
+
+/* Update 13.08.2015 */
+.uni-bridallist-title-wrapper span a, .uni-bridallist-title-wrapper span a:visited {color: #f4bb39;} 

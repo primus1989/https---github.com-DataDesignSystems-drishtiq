@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni Wish and Bridal Lists\n"
+"POT-Creation-Date: 2015-08-12 14:22+0300\n"
+"PO-Revision-Date: 2015-08-12 14:22+0300\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Team <sales@moomoo.com.ua>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/uni-class-wishlist-ajax.php:55
+msgid "Error!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:121
+msgid "Error: the product and variation IDs are not defined!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:151
+msgid "Successfully added to your Wish List!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:153
+#: includes/uni-class-wishlist-ajax.php:189
+#: includes/uni-class-wishlist-ajax.php:219
+#: includes/uni-class-wishlist-ajax.php:323
+#: includes/uni-class-wishlist-ajax.php:359
+#: includes/uni-class-wishlist-ajax.php:408
+msgid "Error: unknown reason"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:157
+#: includes/uni-class-wishlist-ajax.php:193
+#: includes/uni-class-wishlist-ajax.php:223
+#: includes/uni-class-wishlist-ajax.php:327
+#: includes/uni-class-wishlist-ajax.php:363
+#: includes/uni-class-wishlist-ajax.php:412
+msgid "Error: the product ID is not defined!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:187
+#: includes/uni-class-wishlist-ajax.php:217
+msgid "Successfully deleted from your Wish List!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:321
+msgid "Successfully added to your bridal List!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:357
+msgid "Successfully deleted from your bridal List!"
+msgstr ""
+
+#: includes/uni-class-wishlist-ajax.php:406
+msgid "Successfully deleted from your Bridal List!"
+msgstr ""
+
+#: includes/uni-wc-wishlist-functions.php:59
+#, php-format
+msgid "Bridal list of user #%d"
+msgstr ""
+
+#: includes/uni-wc-wishlist-functions.php:67
+msgid ""
+"You haven't added title yet. Click on the edit icon next to this field to "
+"edit it."
+msgstr ""
+
+#: includes/uni-wc-wishlist-functions.php:91
+msgid "This product is added from bridal list: #"
+msgstr ""
+
+#: includes/views/bridalitem-table-row-my.php:43
+#: includes/views/bridalitem-table-row.php:43
+#: includes/views/item-table-row.php:41
+msgid "Select options"
+msgstr ""
+
+#: includes/views/bridalitem-table-row-my.php:54
+#: includes/views/bridalitem-table-row.php:54
+#: includes/views/item-table-row.php:52
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/views/bridalitem-table-row-my.php:54
+#: includes/views/bridalitem-table-row.php:54
+#: includes/views/item-table-row.php:52
+msgid "Read More"
+msgstr ""
+
+#: includes/views/bridalitem-table-row-my.php:61
+#: includes/views/bridalitem-table-row.php:61
+#: includes/views/bridalitem-variation-table-row-my.php:55
+#: includes/views/bridalitem-variation-table-row.php:55
+msgid "Already bought"
+msgstr ""
+
+#: includes/views/bridalitem-table-row-my.php:68
+#: includes/views/bridalitem-variation-table-row-my.php:62
+#: includes/views/item-table-row.php:61
+#: includes/views/item-variation-table-row.php:54
+msgid "Delete"
+msgstr ""
+
+#: includes/views/bridallist-current.php:24
+#, php-format
+msgid "The URI of this list is %s. You can give this link to your guests."
+msgstr ""
+
+#: includes/views/bridallist-current.php:70 includes/views/bridallist.php:56
+msgid "The bridal list is empty."
+msgstr ""
+
+#: includes/views/bridallist-nonreg.php:7
+#, php-format
+msgid ""
+"Bridal lists are available for registered users only. <a href=\"%s"
+"\">Register now!</a>"
+msgstr ""
+
+#: includes/views/bridallist-nonreg.php:9
+#: includes/views/wishlist-empty.php:5
+msgid "Return To Shop"
+msgstr ""
+
+#: includes/views/wishlist-empty.php:1
+msgid "Your wishlist is currently empty."
+msgstr ""
+
+#: uni-woo-wishlist.php:109
+msgid "Uni Wish & Bridal Lists"
+msgstr ""
+
+#: uni-woo-wishlist.php:133
+msgid "Uni Wish & Bridal Lists Plugin Options"
+msgstr ""
+
+#: uni-woo-wishlist.php:139
+msgid "General settings"
+msgstr ""
+
+#: uni-woo-wishlist.php:144
+msgid "\"Add to wishlist\" link position"
+msgstr ""
+
+#: uni-woo-wishlist.php:160
+msgid ""
+"Choose a position for \"Add to Wish List\" link. If you decide to use "
+"\"bridal list\" functionality, \"Add to Bridal List\" link will be added "
+"next to \"Add to Wish List\" link."
+msgstr ""
+
+#: uni-woo-wishlist.php:165
+msgid "Enable/disable \"bridal list\" functionality"
+msgstr ""
+
+#: uni-woo-wishlist.php:169
+msgid "You can enable/disable \"bridal list\" functionality here."
+msgstr ""
+
+#: uni-woo-wishlist.php:174
+msgid "Visual appearance"
+msgstr ""
+
+#: uni-woo-wishlist.php:179
+msgid "Style of Wish and Bridal lists links (both states)"
+msgstr ""
+
+#: uni-woo-wishlist.php:183
+msgid "Default (no icons)"
+msgstr ""
+
+#: uni-woo-wishlist.php:184
+msgid "Heart and Gift icons"
+msgstr ""
+
+#: uni-woo-wishlist.php:185
+msgid "Star and Gift icons"
+msgstr ""
+
+#: uni-woo-wishlist.php:186
+msgid "Heart and Venus-Mars icons"
+msgstr ""
+
+#: uni-woo-wishlist.php:187
+msgid "Custom (define custom fontawesome icons)"
+msgstr ""
+
+#: uni-woo-wishlist.php:189
+#, php-format
+msgid ""
+"Choose one of prepared styles (icons) or choose \"Custom\" and define your "
+"fontawesome icons (%s a full list of fontawesome icons here %s)."
+msgstr ""
+
+#: uni-woo-wishlist.php:194
+msgid "Custom fontawesome icon for Wish list link (added)"
+msgstr ""
+
+#: uni-woo-wishlist.php:198 uni-woo-wishlist.php:207
+#: uni-woo-wishlist.php:216 uni-woo-wishlist.php:225
+msgid "Example: \"fa-amazon\". Another example: \"fa-gift\""
+msgstr ""
+
+#: uni-woo-wishlist.php:203
+msgid "Custom fontawesome icon for Wish list link (not added)"
+msgstr ""
+
+#: uni-woo-wishlist.php:212
+msgid "Custom fontawesome icon for Bridal list link (added)"
+msgstr ""
+
+#: uni-woo-wishlist.php:221
+msgid "Custom fontawesome icon for Bridal list link (not added)"
+msgstr ""
+
+#: uni-woo-wishlist.php:243
+msgid "None (insert by php function by myself)"
+msgstr ""
+
+#: uni-woo-wishlist.php:244
+msgid "After Add to Cart"
+msgstr ""
+
+#: uni-woo-wishlist.php:245
+msgid "After Thumbnail"
+msgstr ""
+
+#: uni-woo-wishlist.php:246
+msgid "After Product Summary"
+msgstr ""
+
+#: uni-woo-wishlist.php:283
+msgid "Saving..."
+msgstr ""
+
+#: uni-woo-wishlist.php:284
+msgid "Click to edit the title"
+msgstr ""
+
+#: uni-woo-wishlist.php:285
+msgid "Cancel"
+msgstr ""
+
+#: uni-woo-wishlist.php:286
+msgid "Save"
+msgstr ""
+
+#: uni-woo-wishlist.php:402 uni-woo-wishlist.php:418
+msgid "Add to Wish List"
+msgstr ""
+
+#: uni-woo-wishlist.php:410 uni-woo-wishlist.php:426
+msgid "Added to Wish List"
+msgstr ""
+
+#: uni-woo-wishlist.php:854 uni-woo-wishlist.php:870
+msgid "Add to Bridal List"
+msgstr ""
+
+#: uni-woo-wishlist.php:862 uni-woo-wishlist.php:878
+msgid "Added to Bridal List"
+msgstr ""

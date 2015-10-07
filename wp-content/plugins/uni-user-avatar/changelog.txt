@@ -1,0 +1,23 @@
+Version 1.6.2:
+- Fixed: some bugs
+- Change: optimized code
+
+Version 1.6.1:
+- Fix: fixed several minor bugs
+
+Version 1.6:
+- Added: support for BuddyPress
+- Added: support for bbPress
+- Change: removed deprecated code
+- Fix: fixed several minor bugs
+
+Version 1.5.4:
+- Change: optimized code
+
+Version 1.5.3
+- Fix: fixed several minor bugs
+- Change: changed plugin's admin menu appearence; now it is under 'Users' admin menu
+- Added: option to enable custom avatars everywhere and override gravatars or display custom avatars only by using plugin's shortcode
+
+Version 1.5:
+- Release

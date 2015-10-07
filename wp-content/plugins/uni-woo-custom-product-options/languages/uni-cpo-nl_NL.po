@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni CPO\n"
+"POT-Creation-Date: 2015-06-05 22:20+0200\n"
+"PO-Revision-Date: 2015-06-05 22:20+0200\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Web Studio <sales@moomoo.com.ua>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/html-product-attribute.php:3
+msgid "Remove"
+msgstr "Verwijderen\t"
+
+#: .././includes/html-product-attribute.php:4
+msgid "Click to toggle"
+msgstr "Klik om open te schuiven"
+
+#: .././includes/html-product-attribute.php:12
+msgid "Name"
+msgstr "Naam"
+
+#: .././includes/html-product-attribute.php:25
+msgid "Value(s)"
+msgstr "Waarde"
+
+#: .././includes/html-product-attribute.php:30
+msgid "Select terms"
+msgstr "Selecteer voorwaarden"
+
+#: .././includes/html-product-attribute.php:48
+msgid "Select all"
+msgstr "Selecteer alles"
+
+#: .././includes/html-product-attribute.php:49
+msgid "Select none"
+msgstr "Selecteer geen"
+
+#: .././includes/html-product-attribute.php:50
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Add new"
+msgstr "Nieuwe toevoegen"
+
+#: .././includes/html-product-attribute.php:75
+msgid "Visible on the product page"
+msgstr "Zichtbaar op de productpagina"
+
+#: .././includes/html-product-attribute.php:80
+msgid "Must be filled/selected by user"
+msgstr "Moet ingevuld/geselecteerd zijn"
+
+#: .././includes/html-product-attribute.php:87
+msgid "Dropdown (default)"
+msgstr "Dropdown (standaard)"
+
+#: .././includes/html-product-attribute.php:88
+msgid "Text input"
+msgstr "Tekst input"
+
+#: .././includes/html-product-attribute.php:89
+msgid "Text input number"
+msgstr "Tekst input cijfers"
+
+#: .././includes/html-product-attribute.php:90
+msgid "Radio input"
+msgstr "Radio input"
+
+#: .././includes/html-product-attribute.php:91
+msgid "Checkbox input"
+msgstr "Checkbox input"
+
+#: .././includes/html-product-attribute.php:92
+msgid "Checkboxes"
+msgstr "Checkboxen"
+
+#: .././includes/html-product-attribute.php:93
+msgid "Color (palette only)"
+msgstr "Kleur (enkel kleurenpallet)"
+
+#: .././includes/html-product-attribute.php:94
+msgid "Color (picker only)"
+msgstr "Kleur (enkel kleurenkiezer)"
+
+#: .././includes/html-product-attribute.php:95
+msgid "Textarea"
+msgstr "Tekstvak"
+
+#: .././includes/html-product-attribute.php:97
+msgid "Type of field"
+msgstr "Type veld"
+
+#: .././includes/html-product-attribute.php:111
+msgid "Image size"
+msgstr "Afbeeldinggrootte"
+
+#: .././uni-cpo-admin-options.php:11
+msgid "Uni CPO"
+msgstr "Uni CPO"
+
+#: .././uni-cpo-admin-options.php:25
+msgid "UNI CPO Plugin Options"
+msgstr "Uni CPO Plugin opties"
+
+#: .././uni-cpo-admin-options.php:29
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: .././uni-cpo-admin-options.php:33
+msgid "Custom selector (id/class) for a product price container"
+msgstr "Custom selector (id/class) voor een product prijs container"
+
+#: .././uni-cpo-admin-options.php:36
+msgid ""
+"By default, the selector for a product price container is \".price span\". "
+"However html markup of this block may differ from the default, so you have "
+"to define a new one."
+msgstr ""
+"Standaard, is de selecteer voor een product prijs container \".price span\". "
+"Echter kan de html opmaak van dit blok verschillen van de standaard en moet "
+"u een nieuwe definieren."
+
+#: .././uni-cpo-attr-options.php:21
+msgid "UNI CPO Attribute Meta Fields"
+msgstr "UNI CPO Eigenschappen Meta Velden"
+
+#: .././uni-cpo-attr-options.php:23 .././uni-cpo-attr-options.php:76
+msgid "Price"
+msgstr "Prijs"
+
+#: .././uni-cpo-attr-options.php:25
+msgid "Enter a price for this option (optional)"
+msgstr "Geef een prijs in voor deze optie (optioneel)"
+
+#: .././uni-cpo-attr-options.php:28 .././uni-cpo-attr-options.php:83
+msgid "Color (for color input)"
+msgstr "Kleur (voor kleur input)"
+
+#: .././uni-cpo-attr-options.php:30
+msgid ""
+"Choose a color for this option (optional). Chosen color will be placed into "
+"the palette for the color input."
+msgstr ""
+"Kies een kleur voor deze optie (optioneel). De gekozen kleur wordt geplaatst "
+"in het kleurenpallet voor de kleur input."
+
+#: .././uni-cpo-attr-options.php:79
+msgid ""
+"Enter a price for this option. <strong>Use of different types of fields: all "
+"types except text input and textarea.</strong>"
+msgstr ""
+"Geef een prijs in voor deze optie. <strong>Gebruik van verschillende type "
+"velden: alle velden behalve tekst input en tekstvak.</strong>"
+
+#: .././uni-cpo-attr-options.php:86
+msgid ""
+"Choose a color for this option. Chosen color will be placed into the palette "
+"for the color input. <strong>Use of different types of fields: only for "
+"color input with palette.</strong>"
+msgstr ""
+"Kies een kleur voor deze optie. De gekozen kleur wordt geplaatst in het "
+"kleurenpallet voor de kleur input. <strong>Gebruik van verschillende type "
+"velden: enkel voor kleur input met kleurenpallet. </strong>"
+
+#: .././uni-cpo-attr-options.php:90
+msgid "Image"
+msgstr "Afbeelding"
+
+#: .././uni-cpo-attr-options.php:92
+msgid "Thumbnail"
+msgstr "Kleine afbeelding"
+
+#: .././uni-cpo-attr-options.php:96
+msgid "Upload/Add image"
+msgstr "Afbeeldingen uploaden/toevoegen"
+
+#: .././uni-cpo-attr-options.php:97
+msgid "Remove image"
+msgstr "Afbeelding verwijderen"
+
+#: .././uni-cpo-attr-options.php:120
+msgid "Choose an image"
+msgstr "Kies een afbeelding"
+
+#: .././uni-cpo-attr-options.php:122
+msgid "Use image"
+msgstr "Gebruik afbeelding"
+
+#: .././uni-cpo-attr-options.php:149
+msgid ""
+"<strong>Use of different types of fields: only for radio inputs and "
+"checkboxes.</strong>"
+msgstr ""
+"<strong>Gebruik van verschillende type velden: enkel voor radio input en "
+"checkboxen.</strong>"
+
+#: .././uni-cpo-attr-options.php:153
+msgid "Min. value (is used for input number only!)"
+msgstr "Minimum waarde (enkel in gebruik voor cijfer input!)"
+
+#: .././uni-cpo-attr-options.php:156
+msgid "Define a min. value (number) that client can choose."
+msgstr "Definieer een minimum waarde (cijfer) dat een klant kan kiezen."
+
+#: .././uni-cpo-attr-options.php:160
+msgid "Max. value (is used for input number only!)"
+msgstr "Maximum waarde (enkel in gebruik voor cijfer input!)"
+
+#: .././uni-cpo-attr-options.php:163
+msgid "Define a max. value (number) that client can choose."
+msgstr "Definieer een maximum waarde (cijfer) dat een klant kan kiezen."
+
+#: .././uni-cpo-attr-options.php:167
+msgid "Default value (is used for both regular text input and input number!)"
+msgstr ""
+"Standaard waarde (wordt gebruikt voor standaard tekst input en cijfer input!)"
+
+#: .././uni-cpo-attr-options.php:170
+msgid ""
+"Define a default value that will be shown for a client at the beginning."
+msgstr ""
+"Definieer een standaard waarde dat wordt getoond aan de klant bij het begin."
+
+#: .././uni-cpo-product-options.php:6
+msgid "CPO Settings"
+msgstr "CPO instellingen"
+
+#: .././uni-cpo-product-options.php:11
+msgid "CPO Options"
+msgstr "CPO opties"
+
+#: .././uni-cpo-product-options.php:16
+msgid "CPO Cart Discounts"
+msgstr "CPO winkelwagen kortingen"
+
+#: .././uni-cpo-product-options.php:32
+msgid "Enable price calculation based on custom options?"
+msgstr "Inschakelen prijscalculatie baseren op custom opties?"
+
+#: .././uni-cpo-product-options.php:36
+msgid "Enable discounts in the cart based on quantity?"
+msgstr "Inschakelen kortingen in de winkelwagen op basis van aantallen?"
+
+#: .././uni-cpo-product-options.php:41
+#, php-format
+msgid "Min. price (%s)"
+msgstr "Minimumprijs (%s)"
+
+#: .././uni-cpo-product-options.php:44
+msgid "Available options tags (clickable)"
+msgstr "Beschikbare optie tags (klikbaar)"
+
+#: .././uni-cpo-product-options.php:48
+msgid "Price of the product"
+msgstr "Prijs van het product"
+
+#: .././uni-cpo-product-options.php:65
+msgid ""
+"Typical math operators: *, +, -, /. You can also use \"(\" and \")\" in the "
+"formula."
+msgstr ""
+"Typische wiskundige operators: *, +, -, /. U kunt ook \"(\" en \")\" "
+"gebruiken in de formule."
+
+#: .././uni-cpo-product-options.php:67
+msgid ""
+"None of CPO options have been added yet. Maybe you need to reload the page?"
+msgstr ""
+"Er zijn nog geen CPO opties toegevoegd. Misschien de pagina eerst herladen?"
+
+#: .././uni-cpo-product-options.php:70 .././uni-cpo-product-options.php:168
+#: .././uni-cpo-product-options.php:243
+msgid "Formula"
+msgstr "Formule"
+
+#: .././uni-cpo-product-options.php:72
+msgid ""
+"The name of each field is a slug for this attribute prefixed with \"uni_cpo_"
+"\" and the brackets (\"{}\") from the both sides of the variable. For "
+"example: \"{uni_cpo_width}\" or \"{uni_cpo_pa_thickness}\". The formula "
+"example: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". These special formatted names will be changed to the values of "
+"the price of the attribute during the price calculation. Also you should use "
+"\"{uni_cpo_price}\" if you want to add a price of the product."
+msgstr ""
+"De naam van elk veld is de slug van de eigenschap is voorzien van een extra "
+"prefix \"uni_cpo_\" en de haakjes (\"{}\") aan beide zijdes van de "
+"variabele.  \n"
+"Voorbeeld: \"{uni_cpo_width}\" of \"{uni_cpo_pa_thickness}\". \n"
+"\n"
+"Formule voorbeeld: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". \n"
+"\n"
+"Deze speciale geformatteerde namen worden vervangen door de waardes van de "
+"prijs van de eigenschap tijdens de prijscalculatie. U dient ook "
+"\"{uni_cpo_price}\" te gebruiken als u een prijs toevoegen van het product."
+
+#: .././uni-cpo-product-options.php:78
+msgid "Min. quantity value"
+msgstr "Minimum waarde aantallen"
+
+#: .././uni-cpo-product-options.php:79
+msgid "Max. quantity value"
+msgstr "Maximum waarde aantallen"
+
+#: .././uni-cpo-product-options.php:80
+msgid "Starting quantity value"
+msgstr "Start waarde aantallen"
+
+#: .././uni-cpo-product-options.php:81
+msgid "Increment step value"
+msgstr "Waarde van incrementele toename"
+
+#: .././uni-cpo-product-options.php:85
+msgid "Enable conditions?"
+msgstr "Condities inschakelen?"
+
+#: .././uni-cpo-product-options.php:97 .././uni-cpo-product-options.php:176
+msgid "Rule"
+msgstr "Regel"
+
+#: .././uni-cpo-product-options.php:100 .././uni-cpo-product-options.php:140
+#: .././uni-cpo-product-options.php:179 .././uni-cpo-product-options.php:215
+msgid "Quantity"
+msgstr "Aantal"
+
+#: .././uni-cpo-product-options.php:117 .././uni-cpo-product-options.php:157
+#: .././uni-cpo-product-options.php:196 .././uni-cpo-product-options.php:232
+msgid "less then"
+msgstr "kleiner dan"
+
+#: .././uni-cpo-product-options.php:118 .././uni-cpo-product-options.php:158
+#: .././uni-cpo-product-options.php:197 .././uni-cpo-product-options.php:233
+msgid "equal or less then"
+msgstr "kleiner dan of gelijk aan"
+
+#: .././uni-cpo-product-options.php:119 .././uni-cpo-product-options.php:159
+#: .././uni-cpo-product-options.php:198 .././uni-cpo-product-options.php:234
+msgid "equal"
+msgstr "gelijk aan"
+
+#: .././uni-cpo-product-options.php:120 .././uni-cpo-product-options.php:160
+#: .././uni-cpo-product-options.php:199 .././uni-cpo-product-options.php:235
+msgid "equal or greater then"
+msgstr "gelijk aan of groter dan"
+
+#: .././uni-cpo-product-options.php:121 .././uni-cpo-product-options.php:161
+#: .././uni-cpo-product-options.php:200 .././uni-cpo-product-options.php:236
+msgid "greater then"
+msgstr "groter dan"
+
+#: .././uni-cpo-product-options.php:122 .././uni-cpo-product-options.php:162
+#: .././uni-cpo-product-options.php:201 .././uni-cpo-product-options.php:237
+msgid "is"
+msgstr "is"
+
+#: .././uni-cpo-product-options.php:123 .././uni-cpo-product-options.php:163
+#: .././uni-cpo-product-options.php:202 .././uni-cpo-product-options.php:238
+msgid "is not"
+msgstr "is niet"
+
+#: .././uni-cpo-product-options.php:125 .././uni-cpo-product-options.php:165
+#: .././uni-cpo-product-options.php:204 .././uni-cpo-product-options.php:240
+msgid "Value"
+msgstr "Waarde"
+
+#: .././uni-cpo-product-options.php:129 .././uni-cpo-product-options.php:208
+msgid "Disable the second part"
+msgstr "Schakel het tweede deel uit"
+
+#: .././uni-cpo-product-options.php:130 .././uni-cpo-product-options.php:209
+msgid "AND"
+msgstr "AND"
+
+#: .././uni-cpo-product-options.php:131 .././uni-cpo-product-options.php:210
+msgid "OR"
+msgstr "OR"
+
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: .././uni-cpo-product-options.php:334
+msgid "Close all"
+msgstr "Alles sluiten"
+
+#: .././uni-cpo-product-options.php:334
+msgid "Expand all"
+msgstr "Alles openen"
+
+#: .././uni-cpo-product-options.php:380
+msgid "Add"
+msgstr "Toevoegen"
+
+#: .././uni-cpo-product-options.php:382
+msgid "Choose an option..."
+msgstr "Kies een optie…"
+
+#: .././uni-cpo-product-options.php:394
+msgid "Save CPO options"
+msgstr "CPO opties opslaan"
+
+#: .././uni-cpo-product-options.php:836
+msgid "Type of discount"
+msgstr "Type korting"
+
+#: .././uni-cpo-product-options.php:838
+msgid "Fixed"
+msgstr "Vast bedrag"
+
+#: .././uni-cpo-product-options.php:839
+msgid "Percent"
+msgstr "Percentage"
+
+#: .././uni-cpo-product-options.php:852 .././uni-cpo-product-options.php:874
+msgid "Min. qty"
+msgstr "Minimum aantal"
+
+#: .././uni-cpo-product-options.php:857 .././uni-cpo-product-options.php:879
+msgid "Max. qty"
+msgstr "Maximum aantal"
+
+#: .././uni-cpo-product-options.php:862 .././uni-cpo-product-options.php:884
+msgid "Discount value"
+msgstr "Waarde korting"
+
+#: .././uni-cpo.php:62
+msgid "(fill in all required fields to calculate the price)"
+msgstr ""
+
+#: .././uni-cpo.php:63
+msgid "Total for"
+msgstr ""
+
+#: .././uni-cpo.php:64
+msgid "is:"
+msgstr ""
+
+#: .././uni-cpo.php:207
+#, php-format
+msgid "You save %s!"
+msgstr ""
+
+#: .././uni-cpo.php:379
+msgid "Please, choose..."
+msgstr "Svp, selecteer…"
+
+#: .././uni-cpo.php:540
+msgid "Choose"
+msgstr "Selecteer"
+
+#: .././uni-cpo.php:541
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: .././uni-cpo.php:621
+msgid "Select options"
+msgstr "Selecteer opties"
+
+#: .././uni-cpo.php:730
+msgid "Please, fill in all required fields!"
+msgstr "Vul aub alle verplichte velden in!"
+
+#: .././uni-cpo.php:1186 .././uni-cpo.php:1368
+msgid "Checked"
+msgstr "Aangekruist"

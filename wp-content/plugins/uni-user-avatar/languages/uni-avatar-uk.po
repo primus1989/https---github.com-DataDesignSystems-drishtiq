@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni Avatar\n"
+"POT-Creation-Date: 2015-06-02 22:59+0200\n"
+"PO-Revision-Date: 2015-06-02 23:00+0200\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Web Studio <sales@moomoo.com.ua>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././class/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: .././class/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: .././class/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: .././class/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: .././class/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: .././class/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: .././class/UniAvatar.class.php:24
+msgid "Error!"
+msgstr "Помилка!"
+
+#: .././class/UniAvatar.class.php:58
+msgid "Preview"
+msgstr "Preview"
+
+#: .././class/UniAvatar.class.php:70
+msgid "Upload photo:"
+msgstr "Завантажити фото:"
+
+#: .././class/UniAvatar.class.php:71 .././class/UniAvatar.class.php:150
+msgid "Upload"
+msgstr "Завантажити"
+
+#: .././class/UniAvatar.class.php:77
+msgid "Save photo:"
+msgstr "Зберегти фото:"
+
+#: .././class/UniAvatar.class.php:88 .././class/UniAvatar.class.php:119
+msgid "Save"
+msgstr "Зберегти"
+
+#: .././class/UniAvatar.class.php:97
+msgid "Only images (.jpg, .png, .gif) are allowed!"
+msgstr "Дозволено лише зображення (.jpg, .png, .gif)!"
+
+#: .././class/UniAvatar.class.php:98
+#, php-format
+msgid ""
+"Maximum upload size - %s Kb! <a href=\"http://www.picresize.com/\" target="
+"\"_blank\">Make image smaller</a>"
+msgstr ""
+"Макс. розмір фото - %s Kb! <a href=\"http://www.picresize.com/\" target="
+"\"_blank\">Make image smaller</a>"
+
+#: .././class/UniAvatar.class.php:122
+#, php-format
+msgid "%s There is no uploaded images. %s"
+msgstr "%s Немає зображень %s"
+
+#: .././class/UniAvatar.class.php:194 .././uni-user-avatar.php:498
+msgid "Delete"
+msgstr "Видалити"
+
+#: .././class/UniAvatar.class.php:246
+#, php-format
+msgid "Image upload error: %s"
+msgstr "Помилка завантаження: %s"
+
+#: .././class/UniAvatar.class.php:273
+msgid "File has not been uploaded for unknown reason!"
+msgstr "Файл не було завантажено з невідомих причин!"
+
+#: .././class/UniAvatar.class.php:343 .././class/UniAvatar.class.php:449
+msgid "New avatar has been saved!"
+msgstr "Новий аватар збережено!"
+
+#: .././class/UniAvatar.class.php:360
+msgid "WP 3.5+ required!"
+msgstr "Необхідний WP 3.5+!"
+
+#: .././class/UniAvatar.class.php:364
+msgid "No coordinates or image URI!"
+msgstr "Не вказано координати або URI зображення!"
+
+#: .././class/UniAvatar.class.php:388 .././class/UniAvatar.class.php:425
+msgid "Error: user ID not defined!"
+msgstr "Помилка: ID користувача не вказано!"
+
+#: .././class/UniAvatar.class.php:420
+msgid "User avatar successfully deleted!"
+msgstr "Ваш аватар успішно видалено!"
+
+#: .././class/UniAvatar.class.php:454
+msgid "Error: image ID not defined!"
+msgstr "Помилка: ID зображення не вказано"
+
+#: .././templates/members/single/profile/uni-avatar-change-avatar.php:1
+msgid "Change Profile Photo"
+msgstr ""
+
+#: .././templates/members/single/profile/uni-avatar-change-avatar.php:11
+msgid "Upload Image"
+msgstr "Завантажити"
+
+#: .././templates/members/single/profile/uni-avatar-change-avatar.php:13
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: .././templates/members/single/profile/uni-avatar-change-avatar.php:17
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+
+#: .././uni-user-avatar.php:75
+msgid "Uni Avatar"
+msgstr "Uni Avatar"
+
+#: .././uni-user-avatar.php:105
+msgid "Uni Avatar Plugin Options Page"
+msgstr "Uni Avatar сторінка опцій"
+
+#: .././uni-user-avatar.php:111
+msgid "General options"
+msgstr ""
+
+#: .././uni-user-avatar.php:116
+msgid "Enable custom avatars everywhere on the website?"
+msgstr ""
+
+#: .././uni-user-avatar.php:120
+msgid ""
+"Check this option to enable custom avatars everywhere on the website and "
+"gravatars will be replaced. Or uncheck this and you will be able to use "
+"custom avatars only by using plugin's shortcode [uav-display-avatar]."
+msgstr ""
+
+#: .././uni-user-avatar.php:125
+msgid "Enable support of the plugin's upload form on the website?"
+msgstr ""
+
+#: .././uni-user-avatar.php:129
+msgid ""
+"It is a very important option! You have to enable this only if you want to "
+"use an upload avatar form someshere on your website in front end. This "
+"option is disabled by default to prevent of loading some not needed scripts "
+"(they are really not needed if you don't use plugin's form for uploading "
+"avatars in the front end)"
+msgstr ""
+
+#: .././uni-user-avatar.php:133
+msgid "Choose default avatar image dimmensions. Default is 48 px."
+msgstr "Вкажіть розмір аватарів по замовчуванні. По замовчуванні 48 px."
+
+#: .././uni-user-avatar.php:142
+msgid "Choose default avatar image size (Kb). Default is 300 Kb."
+msgstr "Вкажіть розмір аватарів по замовчуванні (Kb). По замовчуванні 300 Kb."
+
+#: .././uni-user-avatar.php:151
+msgid "Choose default avatar image"
+msgstr "Вибрати аватар по замовчуванні"
+
+#: .././uni-user-avatar.php:170
+msgid "Enable different avatars depending on user's gender"
+msgstr "Включити різні аватари в залежності від статі"
+
+#: .././uni-user-avatar.php:174
+msgid ""
+"WP itself doesn't have feature of choosing users's gender! However this "
+"plugin adds this feature. User's gender can be chosen on his profile page."
+msgstr ""
+"WP не має функціональності вибору статі! Однак цей плагін додає таку "
+"можливість. Стать юзера може бути вибрано на сторінці його профілю."
+
+#: .././uni-user-avatar.php:178
+msgid ""
+"Choose one of the predefined avatar image sets with male/female "
+"differentiation (displays if male/female differentiation is enabled)"
+msgstr ""
+"Виберіть один із превстановлених зображень аватарів дял різних статей "
+"(використовуються лише якщо включено опцію враховування статі користувача)"
+
+#: .././uni-user-avatar.php:197
+msgid "Custom uploaded avatars"
+msgstr "Власні додані аватари"
+
+#: .././uni-user-avatar.php:199
+msgid "Thumbnails"
+msgstr "Мініатюри"
+
+#: .././uni-user-avatar.php:218
+msgid "Upload/Add avatars"
+msgstr "Завантажити/додати аватари"
+
+#: .././uni-user-avatar.php:219
+msgid "Remove avatars"
+msgstr "Видалити аватари"
+
+#: .././uni-user-avatar.php:241
+msgid "Choose images"
+msgstr "Вибрати зображення"
+
+#: .././uni-user-avatar.php:243
+msgid "Use images"
+msgstr "Використати зображення"
+
+#: .././uni-user-avatar.php:286
+msgid "Options for BuddyPress"
+msgstr ""
+
+#: .././uni-user-avatar.php:289
+msgid "It seems that you haven't activated BuddyPress yet!"
+msgstr ""
+
+#: .././uni-user-avatar.php:295
+msgid "Enable custom avatars for BuddyPress?"
+msgstr ""
+
+#: .././uni-user-avatar.php:299
+msgid ""
+"Check this option to add support of this plugin to BuddyPress. Warning: "
+"enabling this option will disable photo upload form on BP user's profile "
+"page."
+msgstr ""
+
+#: .././uni-user-avatar.php:304
+msgid "Enable avatar upload form on BP profile page?"
+msgstr ""
+
+#: .././uni-user-avatar.php:308
+msgid ""
+"This option for those who enabled support of this plugin for BP and want to "
+"give their users an ability to change avatar any time."
+msgstr ""
+
+#: .././uni-user-avatar.php:313
+msgid "Custom text above the upload form on \"Change Avatar\" profile tab"
+msgstr ""
+
+#: .././uni-user-avatar.php:317
+msgid ""
+"You can add custom text above the upload form. It can be a decription or "
+"whatever you want."
+msgstr ""
+
+#: .././uni-user-avatar.php:415 .././uni-user-avatar.php:454
+msgid "Upload Avatar"
+msgstr "Завантажити аватар"
+
+#: .././uni-user-avatar.php:416 .././uni-user-avatar.php:455
+msgid "Select Avatar"
+msgstr "Вибрати аватар"
+
+#: .././uni-user-avatar.php:417 .././uni-user-avatar.php:456
+msgid "File type not allowed"
+msgstr "Недозволений тип файла"
+
+#: .././uni-user-avatar.php:418 .././uni-user-avatar.php:457
+msgid "File is too large"
+msgstr "Файл надто великий"
+
+#: .././uni-user-avatar.php:475
+msgid "Uni Avatar additional fields"
+msgstr "Uni Avatar додаткові поля"
+
+#: .././uni-user-avatar.php:478
+msgid "Choose your gender"
+msgstr "Вибрати стать"
+
+#: .././uni-user-avatar.php:481
+msgid "Not selected"
+msgstr "Не вибрано"
+
+#: .././uni-user-avatar.php:482
+msgid "Male"
+msgstr "Чоловіча"
+
+#: .././uni-user-avatar.php:483
+msgid "Female"
+msgstr "Жіноча"
+
+#: .././uni-user-avatar.php:488
+msgid "Add/Remove avatar"
+msgstr "Додати/видалити аватар"
+
+#: .././uni-user-avatar.php:496
+msgid "Upload/Change Avatar"
+msgstr "Завантажити аватар"
+
+#: .././uni-user-avatar.php:529
+msgid "Avatar Image"
+msgstr "Аватар"

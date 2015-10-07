@@ -1,0 +1,9 @@
+[05-Oct-2015 20:00:58 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[05-Oct-2015 20:05:10 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 11:11:58 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 11:12:16 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 11:13:06 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 11:13:06 UTC] PHP Fatal error:  Call to undefined function wc_get_page_permalink() in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/includes/views/wishlist-empty.php on line 5
+[06-Oct-2015 11:15:59 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 11:55:32 UTC] PHP Warning:  Creating default object from empty value in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 270
+[06-Oct-2015 12:00:16 UTC] PHP Parse error:  syntax error, unexpected 'wp_register_script' (T_STRING), expecting ',' or ';' in /home/drishtiq/public_html/wp-content/plugins/uni-woo-wishlist/uni-woo-wishlist.php on line 272

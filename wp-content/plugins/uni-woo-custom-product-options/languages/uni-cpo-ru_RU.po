@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni CPO\n"
+"POT-Creation-Date: 2015-06-05 22:20+0200\n"
+"PO-Revision-Date: 2015-06-05 22:20+0200\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Web Studio <sales@moomoo.com.ua>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/html-product-attribute.php:3
+msgid "Remove"
+msgstr "Удалить"
+
+#: .././includes/html-product-attribute.php:4
+msgid "Click to toggle"
+msgstr "Преключить"
+
+#: .././includes/html-product-attribute.php:12
+msgid "Name"
+msgstr "Название"
+
+#: .././includes/html-product-attribute.php:25
+msgid "Value(s)"
+msgstr "Значение(я)"
+
+#: .././includes/html-product-attribute.php:30
+msgid "Select terms"
+msgstr "Выбрать опции"
+
+#: .././includes/html-product-attribute.php:48
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: .././includes/html-product-attribute.php:49
+msgid "Select none"
+msgstr "Удалить все"
+
+#: .././includes/html-product-attribute.php:50
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Add new"
+msgstr "Добавить"
+
+#: .././includes/html-product-attribute.php:75
+msgid "Visible on the product page"
+msgstr "Видимый на странице товара"
+
+#: .././includes/html-product-attribute.php:80
+msgid "Must be filled/selected by user"
+msgstr "Должен быть заполнен/выбран"
+
+#: .././includes/html-product-attribute.php:87
+msgid "Dropdown (default)"
+msgstr "Выпадаючий список"
+
+#: .././includes/html-product-attribute.php:88
+msgid "Text input"
+msgstr "Текст"
+
+#: .././includes/html-product-attribute.php:89
+msgid "Text input number"
+msgstr "Поле тип \"число\""
+
+#: .././includes/html-product-attribute.php:90
+msgid "Radio input"
+msgstr "Радио"
+
+#: .././includes/html-product-attribute.php:91
+msgid "Checkbox input"
+msgstr "Чекбокс"
+
+#: .././includes/html-product-attribute.php:92
+msgid "Checkboxes"
+msgstr "Чекбоксы"
+
+#: .././includes/html-product-attribute.php:93
+msgid "Color (palette only)"
+msgstr "Цвет (только палитра)"
+
+#: .././includes/html-product-attribute.php:94
+msgid "Color (picker only)"
+msgstr "Цвет (только пипетка)"
+
+#: .././includes/html-product-attribute.php:95
+msgid "Textarea"
+msgstr "Текстовое поле"
+
+#: .././includes/html-product-attribute.php:97
+msgid "Type of field"
+msgstr "Тип поля"
+
+#: .././includes/html-product-attribute.php:111
+msgid "Image size"
+msgstr "Размер изображений"
+
+#: .././uni-cpo-admin-options.php:11
+msgid "Uni CPO"
+msgstr "Uni CPO"
+
+#: .././uni-cpo-admin-options.php:25
+msgid "UNI CPO Plugin Options"
+msgstr "Uni CPO опции плагина"
+
+#: .././uni-cpo-admin-options.php:29
+msgid "General settings"
+msgstr "Общие настройки"
+
+#: .././uni-cpo-admin-options.php:33
+msgid "Custom selector (id/class) for a product price container"
+msgstr "Кастомный селектор (id/class) для контейнера цены товара"
+
+#: .././uni-cpo-admin-options.php:36
+msgid ""
+"By default, the selector for a product price container is \".price span\". "
+"However html markup of this block may differ from the default, so you have "
+"to define a new one."
+msgstr ""
+"По умолчанию, селектор контейнера цены товара \".price span\". Однако html "
+"разметка этого блока может отличаться в вашей теме, поэтому вы должны "
+"указать свой селектор."
+
+#: .././uni-cpo-attr-options.php:21
+msgid "UNI CPO Attribute Meta Fields"
+msgstr "UNI CPO Мета поля опции"
+
+#: .././uni-cpo-attr-options.php:23 .././uni-cpo-attr-options.php:76
+msgid "Price"
+msgstr "Цена"
+
+#: .././uni-cpo-attr-options.php:25
+msgid "Enter a price for this option (optional)"
+msgstr "Укажите цену для этой опции"
+
+#: .././uni-cpo-attr-options.php:28 .././uni-cpo-attr-options.php:83
+msgid "Color (for color input)"
+msgstr "Цвет (для спец. поля Цвет)"
+
+#: .././uni-cpo-attr-options.php:30
+msgid ""
+"Choose a color for this option (optional). Chosen color will be placed into "
+"the palette for the color input."
+msgstr ""
+"Выберите цвет для этой опции (опционально). Выбранный цвет будет добавлен к "
+"палитре цветов."
+
+#: .././uni-cpo-attr-options.php:79
+msgid ""
+"Enter a price for this option. <strong>Use of different types of fields: all "
+"types except text input and textarea.</strong>"
+msgstr ""
+"Укажите цену для этой опции. <strong>Использование разными типами полей: все "
+"типы полей за исключением текста и текстового поля.</strong>"
+
+#: .././uni-cpo-attr-options.php:86
+msgid ""
+"Choose a color for this option. Chosen color will be placed into the palette "
+"for the color input. <strong>Use of different types of fields: only for "
+"color input with palette.</strong>"
+msgstr ""
+"Выберите цвет дял этой опции.  Выбранный цвет будет добавлен к палитре "
+"цветов. <strong>Использование разными типами полей: только для поля Цвет с "
+"палитрой.</strong>"
+
+#: .././uni-cpo-attr-options.php:90
+msgid "Image"
+msgstr "Изображение"
+
+#: .././uni-cpo-attr-options.php:92
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: .././uni-cpo-attr-options.php:96
+msgid "Upload/Add image"
+msgstr "Загрузить/Добавить изобр."
+
+#: .././uni-cpo-attr-options.php:97
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: .././uni-cpo-attr-options.php:120
+msgid "Choose an image"
+msgstr "Выбрать изображение"
+
+#: .././uni-cpo-attr-options.php:122
+msgid "Use image"
+msgstr "Использовать"
+
+#: .././uni-cpo-attr-options.php:149
+msgid ""
+"<strong>Use of different types of fields: only for radio inputs and "
+"checkboxes.</strong>"
+msgstr ""
+"<strong>Использование разными типами полей: только для радио кнопок и "
+"чекбоксов</strong>"
+
+#: .././uni-cpo-attr-options.php:153
+msgid "Min. value (is used for input number only!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:156
+msgid "Define a min. value (number) that client can choose."
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:160
+msgid "Max. value (is used for input number only!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:163
+msgid "Define a max. value (number) that client can choose."
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:167
+msgid "Default value (is used for both regular text input and input number!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:170
+msgid ""
+"Define a default value that will be shown for a client at the beginning."
+msgstr ""
+
+#: .././uni-cpo-product-options.php:6
+msgid "CPO Settings"
+msgstr "CPO настройки"
+
+#: .././uni-cpo-product-options.php:11
+msgid "CPO Options"
+msgstr "CPO опции"
+
+#: .././uni-cpo-product-options.php:16
+msgid "CPO Cart Discounts"
+msgstr "CPO скидки в корзине"
+
+#: .././uni-cpo-product-options.php:32
+msgid "Enable price calculation based on custom options?"
+msgstr "Включить калькуляцию цены на основе кастомных опций?"
+
+#: .././uni-cpo-product-options.php:36
+msgid "Enable discounts in the cart based on quantity?"
+msgstr "Включить скидки в корзине на основе количества?"
+
+#: .././uni-cpo-product-options.php:41
+#, php-format
+msgid "Min. price (%s)"
+msgstr "Мин. цена (%s)"
+
+#: .././uni-cpo-product-options.php:44
+msgid "Available options tags (clickable)"
+msgstr "Доступные теги опций (кликабельно)"
+
+#: .././uni-cpo-product-options.php:48
+msgid "Price of the product"
+msgstr "Цена товара"
+
+#: .././uni-cpo-product-options.php:65
+msgid ""
+"Typical math operators: *, +, -, /. You can also use \"(\" and \")\" in the "
+"formula."
+msgstr ""
+"Типичные математические операторы: *, +, -, /. Также вы можете использовать "
+"\"(\" и \")\" в формуле."
+
+#: .././uni-cpo-product-options.php:67
+msgid ""
+"None of CPO options have been added yet. Maybe you need to reload the page?"
+msgstr ""
+"Ниодна из CPO опций еще не выбрана. Возможно, вам следует перезагрузить эту "
+"страницу?"
+
+#: .././uni-cpo-product-options.php:70 .././uni-cpo-product-options.php:168
+#: .././uni-cpo-product-options.php:243
+msgid "Formula"
+msgstr "Формула"
+
+#: .././uni-cpo-product-options.php:72
+msgid ""
+"The name of each field is a slug for this attribute prefixed with \"uni_cpo_"
+"\" and the brackets (\"{}\") from the both sides of the variable. For "
+"example: \"{uni_cpo_width}\" or \"{uni_cpo_pa_thickness}\". The formula "
+"example: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". These special formatted names will be changed to the values of "
+"the price of the attribute during the price calculation. Also you should use "
+"\"{uni_cpo_price}\" if you want to add a price of the product."
+msgstr ""
+"Название каждого поля это короткое имя (slug) для этой опции (атрибута) з "
+"префиксом \"uni_cpo_\" и фигурными скобками (\"{}\") с обеих сторон "
+"переменной. Например: \"{uni_cpo_width}\" или \"{uni_cpo_pa_thickness}\". "
+"Пример формулы: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". Эти специально отформатированные названия будут изменены на "
+"значение мета поля Цена соответствующей опции во время калькуляции цены "
+"товара. Также ви должны использовать специальный тег \"{uni_cpo_price}\" "
+"если хотите определить цену товара в формуле."
+
+#: .././uni-cpo-product-options.php:78
+msgid "Min. quantity value"
+msgstr "Мин. количество"
+
+#: .././uni-cpo-product-options.php:79
+msgid "Max. quantity value"
+msgstr "Макс. количество"
+
+#: .././uni-cpo-product-options.php:80
+msgid "Starting quantity value"
+msgstr "Начальное к-во"
+
+#: .././uni-cpo-product-options.php:81
+msgid "Increment step value"
+msgstr "Шаг увел./уменьш к-ва"
+
+#: .././uni-cpo-product-options.php:85
+msgid "Enable conditions?"
+msgstr "Включить условия?"
+
+#: .././uni-cpo-product-options.php:97 .././uni-cpo-product-options.php:176
+msgid "Rule"
+msgstr "Правило"
+
+#: .././uni-cpo-product-options.php:100 .././uni-cpo-product-options.php:140
+#: .././uni-cpo-product-options.php:179 .././uni-cpo-product-options.php:215
+msgid "Quantity"
+msgstr "Количество"
+
+#: .././uni-cpo-product-options.php:117 .././uni-cpo-product-options.php:157
+#: .././uni-cpo-product-options.php:196 .././uni-cpo-product-options.php:232
+msgid "less then"
+msgstr "меньше чем"
+
+#: .././uni-cpo-product-options.php:118 .././uni-cpo-product-options.php:158
+#: .././uni-cpo-product-options.php:197 .././uni-cpo-product-options.php:233
+msgid "equal or less then"
+msgstr "равно или меньше чем"
+
+#: .././uni-cpo-product-options.php:119 .././uni-cpo-product-options.php:159
+#: .././uni-cpo-product-options.php:198 .././uni-cpo-product-options.php:234
+msgid "equal"
+msgstr "равно"
+
+#: .././uni-cpo-product-options.php:120 .././uni-cpo-product-options.php:160
+#: .././uni-cpo-product-options.php:199 .././uni-cpo-product-options.php:235
+msgid "equal or greater then"
+msgstr "равно или больше чем"
+
+#: .././uni-cpo-product-options.php:121 .././uni-cpo-product-options.php:161
+#: .././uni-cpo-product-options.php:200 .././uni-cpo-product-options.php:236
+msgid "greater then"
+msgstr "больше чем"
+
+#: .././uni-cpo-product-options.php:122 .././uni-cpo-product-options.php:162
+#: .././uni-cpo-product-options.php:201 .././uni-cpo-product-options.php:237
+msgid "is"
+msgstr "выбрано"
+
+#: .././uni-cpo-product-options.php:123 .././uni-cpo-product-options.php:163
+#: .././uni-cpo-product-options.php:202 .././uni-cpo-product-options.php:238
+msgid "is not"
+msgstr "не выбрано"
+
+#: .././uni-cpo-product-options.php:125 .././uni-cpo-product-options.php:165
+#: .././uni-cpo-product-options.php:204 .././uni-cpo-product-options.php:240
+msgid "Value"
+msgstr "Значение"
+
+#: .././uni-cpo-product-options.php:129 .././uni-cpo-product-options.php:208
+msgid "Disable the second part"
+msgstr "Отключить вторую часть"
+
+#: .././uni-cpo-product-options.php:130 .././uni-cpo-product-options.php:209
+msgid "AND"
+msgstr "И"
+
+#: .././uni-cpo-product-options.php:131 .././uni-cpo-product-options.php:210
+msgid "OR"
+msgstr "ИЛИ"
+
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Delete"
+msgstr "Удалить"
+
+#: .././uni-cpo-product-options.php:334
+msgid "Close all"
+msgstr "Закрыть все"
+
+#: .././uni-cpo-product-options.php:334
+msgid "Expand all"
+msgstr "Открыть все"
+
+#: .././uni-cpo-product-options.php:380
+msgid "Add"
+msgstr "Добавить"
+
+#: .././uni-cpo-product-options.php:382
+msgid "Choose an option..."
+msgstr "Выбрать опцию..."
+
+#: .././uni-cpo-product-options.php:394
+msgid "Save CPO options"
+msgstr "Сохранить CPO опции"
+
+#: .././uni-cpo-product-options.php:836
+msgid "Type of discount"
+msgstr "Тип скидки"
+
+#: .././uni-cpo-product-options.php:838
+msgid "Fixed"
+msgstr "Фиксированный размер"
+
+#: .././uni-cpo-product-options.php:839
+msgid "Percent"
+msgstr "Процент"
+
+#: .././uni-cpo-product-options.php:852 .././uni-cpo-product-options.php:874
+msgid "Min. qty"
+msgstr "Мин. к-во"
+
+#: .././uni-cpo-product-options.php:857 .././uni-cpo-product-options.php:879
+msgid "Max. qty"
+msgstr "Макс. к-во"
+
+#: .././uni-cpo-product-options.php:862 .././uni-cpo-product-options.php:884
+msgid "Discount value"
+msgstr "Размер скидки"
+
+#: .././uni-cpo.php:62
+msgid "(fill in all required fields to calculate the price)"
+msgstr ""
+
+#: .././uni-cpo.php:63
+msgid "Total for"
+msgstr ""
+
+#: .././uni-cpo.php:64
+msgid "is:"
+msgstr ""
+
+#: .././uni-cpo.php:207
+#, php-format
+msgid "You save %s!"
+msgstr ""
+
+#: .././uni-cpo.php:379
+msgid "Please, choose..."
+msgstr "Пожалуйста, выберите..."
+
+#: .././uni-cpo.php:540
+msgid "Choose"
+msgstr "Выбрать"
+
+#: .././uni-cpo.php:541
+msgid "Cancel"
+msgstr "Отменить"
+
+#: .././uni-cpo.php:621
+msgid "Select options"
+msgstr "Выбрать опции"
+
+#: .././uni-cpo.php:730
+msgid "Please, fill in all required fields!"
+msgstr "Пожалуйста, заполните все обязательные поля!"
+
+#: .././uni-cpo.php:1186 .././uni-cpo.php:1368
+msgid "Checked"
+msgstr "Выбрано"
+
+#~ msgid "Pipe (|) separate terms"
+#~ msgstr "Трубка (|) разделитель"

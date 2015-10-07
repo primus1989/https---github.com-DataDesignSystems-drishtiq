@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni CPO\n"
+"POT-Creation-Date: 2015-06-05 22:20+0200\n"
+"PO-Revision-Date: 2015-06-05 22:20+0200\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Web Studio <sales@moomoo.com.ua>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/html-product-attribute.php:3
+msgid "Remove"
+msgstr "Ukloni"
+
+#: .././includes/html-product-attribute.php:4
+msgid "Click to toggle"
+msgstr "Pritisnite za promenu"
+
+#: .././includes/html-product-attribute.php:12
+msgid "Name"
+msgstr "Ime"
+
+#: .././includes/html-product-attribute.php:25
+msgid "Value(s)"
+msgstr "Vrednost(s)"
+
+#: .././includes/html-product-attribute.php:30
+msgid "Select terms"
+msgstr "Izaberi termin"
+
+#: .././includes/html-product-attribute.php:48
+msgid "Select all"
+msgstr "Izaberi sve"
+
+#: .././includes/html-product-attribute.php:49
+msgid "Select none"
+msgstr "Izaberi ništa"
+
+#: .././includes/html-product-attribute.php:50
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Add new"
+msgstr "Dodaj nov"
+
+#: .././includes/html-product-attribute.php:75
+msgid "Visible on the product page"
+msgstr "Vidljivo na strani proizvoda"
+
+#: .././includes/html-product-attribute.php:80
+msgid "Must be filled/selected by user"
+msgstr "Mora biti popunjeno/odabrano od korisnika"
+
+#: .././includes/html-product-attribute.php:87
+msgid "Dropdown (default)"
+msgstr "Padajući meni"
+
+#: .././includes/html-product-attribute.php:88
+msgid "Text input"
+msgstr "Tekst polje"
+
+#: .././includes/html-product-attribute.php:89
+#, fuzzy
+msgid "Text input number"
+msgstr "Tekst polje"
+
+#: .././includes/html-product-attribute.php:90
+msgid "Radio input"
+msgstr "Radio dugme"
+
+#: .././includes/html-product-attribute.php:91
+msgid "Checkbox input"
+msgstr "Checkbox dugme"
+
+#: .././includes/html-product-attribute.php:92
+msgid "Checkboxes"
+msgstr "Checkbox-ovi"
+
+#: .././includes/html-product-attribute.php:93
+msgid "Color (palette only)"
+msgstr "Boja (samo paleta)"
+
+#: .././includes/html-product-attribute.php:94
+msgid "Color (picker only)"
+msgstr "Boja (samo pipeta)"
+
+#: .././includes/html-product-attribute.php:95
+msgid "Textarea"
+msgstr "Tekst oblast"
+
+#: .././includes/html-product-attribute.php:97
+msgid "Type of field"
+msgstr "Tipsko polje"
+
+#: .././includes/html-product-attribute.php:111
+msgid "Image size"
+msgstr "Veličina slike"
+
+#: .././uni-cpo-admin-options.php:11
+msgid "Uni CPO"
+msgstr "Uni CPO"
+
+#: .././uni-cpo-admin-options.php:25
+msgid "UNI CPO Plugin Options"
+msgstr "UNI CPO opcije plugina"
+
+#: .././uni-cpo-admin-options.php:29
+msgid "General settings"
+msgstr "Glavna podešavanja"
+
+#: .././uni-cpo-admin-options.php:33
+msgid "Custom selector (id/class) for a product price container"
+msgstr "Proizvoljni selektor (id/class) za price polje"
+
+#: .././uni-cpo-admin-options.php:36
+msgid ""
+"By default, the selector for a product price container is \".price span\". "
+"However html markup of this block may differ from the default, so you have "
+"to define a new one."
+msgstr ""
+"Po pravilu, selektor za price polje je \".price span\". Elem, html markup "
+"ovog bloka moze da se razlikuje od podrazumevanog, tako da mozete da "
+"definišete novi."
+
+#: .././uni-cpo-attr-options.php:21
+msgid "UNI CPO Attribute Meta Fields"
+msgstr "UNI CPO Atributi Meta Polja"
+
+#: .././uni-cpo-attr-options.php:23 .././uni-cpo-attr-options.php:76
+msgid "Price"
+msgstr "Cena"
+
+#: .././uni-cpo-attr-options.php:25
+msgid "Enter a price for this option (optional)"
+msgstr "Unesite cenu za ovu opciju (opciono)"
+
+#: .././uni-cpo-attr-options.php:28 .././uni-cpo-attr-options.php:83
+msgid "Color (for color input)"
+msgstr "Boja (za boju inputa)"
+
+#: .././uni-cpo-attr-options.php:30
+msgid ""
+"Choose a color for this option (optional). Chosen color will be placed into "
+"the palette for the color input."
+msgstr ""
+"Izaberite boju za ovu opciju (opciono). Izabrana boja će biti dodata u "
+"paletu za boju inputa."
+
+#: .././uni-cpo-attr-options.php:79
+msgid ""
+"Enter a price for this option. <strong>Use of different types of fields: all "
+"types except text input and textarea.</strong>"
+msgstr ""
+"Unesite boju za ovu opciju. <strong>Upotreba različitih tipova polja: sva "
+"polja osim tekst polja i tekst oblasti.</strong>"
+
+#: .././uni-cpo-attr-options.php:86
+msgid ""
+"Choose a color for this option. Chosen color will be placed into the palette "
+"for the color input. <strong>Use of different types of fields: only for "
+"color input with palette.</strong>"
+msgstr ""
+"Izaberite boju za ovu opciju. Izabrana boja će biti dodata u paletu za boju "
+"inputa. <strong>Upotreba različitih tipova polja: samo za boje inputa sa "
+"paletom.</strong>"
+
+#: .././uni-cpo-attr-options.php:90
+msgid "Image"
+msgstr "Slika"
+
+#: .././uni-cpo-attr-options.php:92
+msgid "Thumbnail"
+msgstr "Pokazna slika"
+
+#: .././uni-cpo-attr-options.php:96
+msgid "Upload/Add image"
+msgstr "Učitaj/Dodaj sliku"
+
+#: .././uni-cpo-attr-options.php:97
+msgid "Remove image"
+msgstr "Ukloni sliku"
+
+#: .././uni-cpo-attr-options.php:120
+msgid "Choose an image"
+msgstr "Izaberi sliku"
+
+#: .././uni-cpo-attr-options.php:122
+msgid "Use image"
+msgstr "Koristi sliku"
+
+#: .././uni-cpo-attr-options.php:149
+msgid ""
+"<strong>Use of different types of fields: only for radio inputs and "
+"checkboxes.</strong>"
+msgstr ""
+"<strong>Upotreba različitih tipova polja: samo za radio i checkbox-e.</"
+"strong>"
+
+#: .././uni-cpo-attr-options.php:153
+msgid "Min. value (is used for input number only!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:156
+msgid "Define a min. value (number) that client can choose."
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:160
+msgid "Max. value (is used for input number only!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:163
+msgid "Define a max. value (number) that client can choose."
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:167
+msgid "Default value (is used for both regular text input and input number!)"
+msgstr ""
+
+#: .././uni-cpo-attr-options.php:170
+msgid ""
+"Define a default value that will be shown for a client at the beginning."
+msgstr ""
+
+#: .././uni-cpo-product-options.php:6
+msgid "CPO Settings"
+msgstr "CPO Podešavanja"
+
+#: .././uni-cpo-product-options.php:11
+#, fuzzy
+msgid "CPO Options"
+msgstr "CPO opcije"
+
+#: .././uni-cpo-product-options.php:16
+#, fuzzy
+msgid "CPO Cart Discounts"
+msgstr "CPO Sniženja"
+
+#: .././uni-cpo-product-options.php:32
+msgid "Enable price calculation based on custom options?"
+msgstr "Omogući kalkulaciju cena baziranu na proizvoljnim opcijama?"
+
+#: .././uni-cpo-product-options.php:36
+#, fuzzy
+msgid "Enable discounts in the cart based on quantity?"
+msgstr "Omogući sniženje bazirano na količini?"
+
+#: .././uni-cpo-product-options.php:41
+#, php-format
+msgid "Min. price (%s)"
+msgstr "Min. cena (%s)"
+
+#: .././uni-cpo-product-options.php:44
+msgid "Available options tags (clickable)"
+msgstr "Dostupni opcioni tagovi (klikabilni)"
+
+#: .././uni-cpo-product-options.php:48
+#, fuzzy
+msgid "Price of the product"
+msgstr "Vidljivo na strani proizvoda"
+
+#: .././uni-cpo-product-options.php:65
+msgid ""
+"Typical math operators: *, +, -, /. You can also use \"(\" and \")\" in the "
+"formula."
+msgstr ""
+"Tipični matematički operatori: *, +, -, /. Takođe možete da koristite \"(\" "
+"i \")\" u formuli."
+
+#: .././uni-cpo-product-options.php:67
+msgid ""
+"None of CPO options have been added yet. Maybe you need to reload the page?"
+msgstr "Ni jedna CPO opcija nije dodata. Probajte ponovo da učitate stranu?"
+
+#: .././uni-cpo-product-options.php:70 .././uni-cpo-product-options.php:168
+#: .././uni-cpo-product-options.php:243
+msgid "Formula"
+msgstr "Formula"
+
+#: .././uni-cpo-product-options.php:72
+msgid ""
+"The name of each field is a slug for this attribute prefixed with \"uni_cpo_"
+"\" and the brackets (\"{}\") from the both sides of the variable. For "
+"example: \"{uni_cpo_width}\" or \"{uni_cpo_pa_thickness}\". The formula "
+"example: \"{uni_cpo_width}*{uni_cpo_height}+{uni_cpo_pa_glazing-"
+"thickness}\". These special formatted names will be changed to the values of "
+"the price of the attribute during the price calculation. Also you should use "
+"\"{uni_cpo_price}\" if you want to add a price of the product."
+msgstr ""
+"Ime svakog polja je slug za atribut sa prefiksom \"uni_pro_\" i vitičastim "
+"zagradama (\"{}\") sa obe strane varijacije. Na primer: \"{uni_pro_width}\" "
+"ili \"{uni_pro_pa_thickness}\". Primer formule: \"{uni_pro_width}"
+"*{uni_pro_height}+{uni_pro_pa_glazing_thickness}\". Ova specijalno formirana "
+"imena će biti promenjena u vrednosti cene dodate atributima prilikom "
+"kalkulacije cene. Takođe bi trebali da koristite \"uni_cpo_price}\" ukoliko "
+"želite da dodate cenu proizvoda."
+
+#: .././uni-cpo-product-options.php:78
+#, fuzzy
+msgid "Min. quantity value"
+msgstr "Snižena vrednost"
+
+#: .././uni-cpo-product-options.php:79
+msgid "Max. quantity value"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:80
+msgid "Starting quantity value"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:81
+msgid "Increment step value"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:85
+msgid "Enable conditions?"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:97 .././uni-cpo-product-options.php:176
+msgid "Rule"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:100 .././uni-cpo-product-options.php:140
+#: .././uni-cpo-product-options.php:179 .././uni-cpo-product-options.php:215
+msgid "Quantity"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:117 .././uni-cpo-product-options.php:157
+#: .././uni-cpo-product-options.php:196 .././uni-cpo-product-options.php:232
+msgid "less then"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:118 .././uni-cpo-product-options.php:158
+#: .././uni-cpo-product-options.php:197 .././uni-cpo-product-options.php:233
+msgid "equal or less then"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:119 .././uni-cpo-product-options.php:159
+#: .././uni-cpo-product-options.php:198 .././uni-cpo-product-options.php:234
+msgid "equal"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:120 .././uni-cpo-product-options.php:160
+#: .././uni-cpo-product-options.php:199 .././uni-cpo-product-options.php:235
+msgid "equal or greater then"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:121 .././uni-cpo-product-options.php:161
+#: .././uni-cpo-product-options.php:200 .././uni-cpo-product-options.php:236
+msgid "greater then"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:122 .././uni-cpo-product-options.php:162
+#: .././uni-cpo-product-options.php:201 .././uni-cpo-product-options.php:237
+msgid "is"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:123 .././uni-cpo-product-options.php:163
+#: .././uni-cpo-product-options.php:202 .././uni-cpo-product-options.php:238
+msgid "is not"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:125 .././uni-cpo-product-options.php:165
+#: .././uni-cpo-product-options.php:204 .././uni-cpo-product-options.php:240
+#, fuzzy
+msgid "Value"
+msgstr "Vrednost(s)"
+
+#: .././uni-cpo-product-options.php:129 .././uni-cpo-product-options.php:208
+#, fuzzy
+msgid "Disable the second part"
+msgstr "Vidljivo na strani proizvoda"
+
+#: .././uni-cpo-product-options.php:130 .././uni-cpo-product-options.php:209
+msgid "AND"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:131 .././uni-cpo-product-options.php:210
+msgid "OR"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:249 .././uni-cpo-product-options.php:891
+msgid "Delete"
+msgstr ""
+
+#: .././uni-cpo-product-options.php:334
+msgid "Close all"
+msgstr "Zatvori sve"
+
+#: .././uni-cpo-product-options.php:334
+msgid "Expand all"
+msgstr "Otvori sve"
+
+#: .././uni-cpo-product-options.php:380
+msgid "Add"
+msgstr "Dodaj"
+
+#: .././uni-cpo-product-options.php:382
+msgid "Choose an option..."
+msgstr "Izaberi opciju..."
+
+#: .././uni-cpo-product-options.php:394
+msgid "Save CPO options"
+msgstr "Sačuvaj CPO opcije"
+
+#: .././uni-cpo-product-options.php:836
+msgid "Type of discount"
+msgstr "Tipovi sniženja"
+
+#: .././uni-cpo-product-options.php:838
+msgid "Fixed"
+msgstr "Fiksno"
+
+#: .././uni-cpo-product-options.php:839
+msgid "Percent"
+msgstr "Procenat"
+
+#: .././uni-cpo-product-options.php:852 .././uni-cpo-product-options.php:874
+msgid "Min. qty"
+msgstr "Min. količina"
+
+#: .././uni-cpo-product-options.php:857 .././uni-cpo-product-options.php:879
+msgid "Max. qty"
+msgstr "Max. količina"
+
+#: .././uni-cpo-product-options.php:862 .././uni-cpo-product-options.php:884
+msgid "Discount value"
+msgstr "Snižena vrednost"
+
+#: .././uni-cpo.php:62
+#, fuzzy
+msgid "(fill in all required fields to calculate the price)"
+msgstr "Molimo vas, izaberite sva potrebna polja!"
+
+#: .././uni-cpo.php:63
+msgid "Total for"
+msgstr ""
+
+#: .././uni-cpo.php:64
+msgid "is:"
+msgstr ""
+
+#: .././uni-cpo.php:207
+#, php-format
+msgid "You save %s!"
+msgstr ""
+
+#: .././uni-cpo.php:379
+msgid "Please, choose..."
+msgstr "Molimo, izaberite..."
+
+#: .././uni-cpo.php:540
+msgid "Choose"
+msgstr "Izaberite"
+
+#: .././uni-cpo.php:541
+msgid "Cancel"
+msgstr "Poništi"
+
+#: .././uni-cpo.php:621
+msgid "Select options"
+msgstr "Izaberi opciju"
+
+#: .././uni-cpo.php:730
+msgid "Please, fill in all required fields!"
+msgstr "Molimo vas, izaberite sva potrebna polja!"
+
+#: .././uni-cpo.php:1186 .././uni-cpo.php:1368
+msgid "Checked"
+msgstr "Izabrano"

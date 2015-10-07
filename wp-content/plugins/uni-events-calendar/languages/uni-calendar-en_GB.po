@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni Events Calendar\n"
+"POT-Creation-Date: 2015-08-18 08:47+0300\n"
+"PO-Revision-Date: 2015-08-18 08:47+0300\n"
+"Last-Translator: Vitaliy Kiyko <mr.psiho@gmail.com>\n"
+"Language-Team: MooMoo Studio Team <sales@moomoo.com.ua>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/uni-calendars-list.php:17 uni-events-calendar.php:106
+msgid "Calendar"
+msgstr ""
+
+#: includes/uni-calendars-list.php:18 uni-events-calendar.php:107
+msgid "Calendars"
+msgstr ""
+
+#: includes/uni-calendars-list.php:36 includes/uni-calendars-list.php:127
+msgid "Uni Events Calendars Manager"
+msgstr ""
+
+#: includes/uni-calendars-list.php:36 uni-events-calendar.php:117
+msgid "Uni Calendars"
+msgstr ""
+
+#: includes/uni-calendars-list.php:43 includes/uni-calendars-list.php:44
+msgid "Manage calendars"
+msgstr ""
+
+#: includes/uni-calendars-list.php:54 uni-events-calendar.php:173
+msgid "Event categories"
+msgstr ""
+
+#: includes/uni-calendars-list.php:64
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/uni-calendars-list.php:127
+msgid "Add New"
+msgstr ""
+
+#: includes/uni-calendars-list.php:133 includes/uni-calendars-list.php:135
+#: includes/uni-calendars-list.php:141
+msgid "Back to all calendars list"
+msgstr ""
+
+#: includes/uni-calendars-list.php:135
+msgid "Add a new calendar"
+msgstr ""
+
+#: includes/uni-calendars-list.php:141
+msgid "Edit calendar"
+msgstr ""
+
+#: includes/uni-calendars-list.php:179
+msgid "Uni Events Calendar Settings"
+msgstr ""
+
+#: includes/uni-calendars-list.php:185
+msgid "General settings"
+msgstr ""
+
+#: includes/uni-calendars-list.php:190
+msgid "Enable auto transfer of events?"
+msgstr ""
+
+#: includes/uni-calendars-list.php:194
+msgid ""
+"Check this option to enable auto transfer of events from current period to "
+"the next period. Auto transfering happens on per week basis."
+msgstr ""
+
+#: includes/uni-calendars-list.php:199
+msgid "Choose day of auto transfer"
+msgstr ""
+
+#: includes/uni-calendars-list.php:203
+msgid "Monday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:204
+msgid "Tuesday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:205
+msgid "Wednesday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:206
+msgid "Thursday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:207
+msgid "Friday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:208
+msgid "Saturday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:209
+msgid "Sunday"
+msgstr ""
+
+#: includes/uni-calendars-list.php:211
+msgid ""
+"All events of current week wil be transfered to the next week on this day. "
+"<strong>Important: disable auto transfer option first if you change the day "
+"and auto transfer was enabled. It ensures that the related wp-cron job will "
+"be executed as it should be.</strong>"
+msgstr ""
+
+#: includes/uni-calendars-list.php:227
+msgid "ID"
+msgstr ""
+
+#: includes/uni-calendars-list.php:228
+msgid "Calendar title"
+msgstr ""
+
+#: includes/uni-calendars-list.php:229
+msgid "Shortcode"
+msgstr ""
+
+#: includes/uni-calendars-list.php:284
+msgid "No calendars."
+msgstr ""
+
+#: includes/uni-calendars-list.php:345
+msgid "Edit"
+msgstr ""
+
+#: includes/uni-calendars-list.php:346
+msgid "Edit calendar's events"
+msgstr ""
+
+#: includes/uni-calendars-list.php:347
+#: includes/views/single-calendar-admin.php:299
+msgid "Delete"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:54
+msgid "Error!"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:122
+#: includes/uni-events-calendar-ajax.php:175
+#, php-format
+msgid "%s Sucess! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:125
+#, php-format
+msgid "%s Error: calendar not created! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:129
+#: includes/uni-events-calendar-ajax.php:182
+#: includes/uni-events-calendar-ajax.php:243
+#, php-format
+msgid "%s You must add a title! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:178
+#, php-format
+msgid "%s Error: calendar not updated! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:239
+#: includes/uni-events-calendar-ajax.php:358
+#, php-format
+msgid "%s Error: event not created! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:285
+#: includes/uni-events-calendar-ajax.php:354
+#: includes/uni-events-calendar-ajax.php:391
+#: includes/uni-events-calendar-ajax.php:460
+#, php-format
+msgid "%s Success! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:289
+#, php-format
+msgid "%s Error: event not updated! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:293
+#: includes/uni-events-calendar-ajax.php:362
+#: includes/uni-events-calendar-ajax.php:399
+#: includes/uni-events-calendar-ajax.php:462
+#: includes/uni-events-calendar-ajax.php:466
+#, php-format
+msgid "%s Something went wrong(( %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:395
+#, php-format
+msgid "%s Error: event not deleted! %s"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:561
+#: includes/uni-events-calendar-ajax.php:615
+msgid "Success!"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:565
+msgid "No events in this period"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:569
+#: includes/uni-events-calendar-ajax.php:623
+msgid "Not enough data"
+msgstr ""
+
+#: includes/uni-events-calendar-ajax.php:619
+msgid "Found no event"
+msgstr ""
+
+#: includes/uni-events-calendar-functions.php:37
+msgid "All"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:129
+msgid "List View"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:130
+msgid "Excerpt View"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:286
+msgid "No items found."
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:412
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:414
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:424
+msgid "Apply"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:512
+msgid "Filter by date"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:514
+msgid "All dates"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:527
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:574
+#, php-format
+msgid "%s pending"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:653
+#: includes/unibill-class-wp-list-table.php:1075
+msgid "1 item"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:688
+msgid "Select Page"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:695
+#, php-format
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/unibill-class-wp-list-table.php:843
+msgid "Select All"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:11
+#: includes/views/single-calendar-admin-edit.php:20
+msgid "Enter title here"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:17
+#: includes/views/single-calendar-admin-edit.php:26
+msgid "Calendar settings"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:20
+#: includes/views/single-calendar-admin-edit.php:29
+msgid "Starting date"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:21
+#: includes/views/single-calendar-admin-edit.php:30
+msgid ""
+"Define starting date. It is \"today\" by default. Leave it blank if you want "
+"it to be every day \"today\"\n"
+"                                        (so the calendar will display day/"
+"week/month of current date) or\n"
+"                                        specify a date. In case of specific "
+"date the calendar will always show this day (for \"agendaDay\" and \"basicDay"
+"\" views) or\n"
+"                                        the week of this specific date (for "
+"\"agendaWeek\" and \"basicWeek\" views) or the month of this specific date "
+"(for\n"
+"                                        \"month\" view)."
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:33
+#: includes/views/single-calendar-admin-edit.php:42
+msgid "Available views"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:34
+#: includes/views/single-calendar-admin-edit.php:43
+msgid "Choose a way of displaying days and events."
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:37
+#: includes/views/single-calendar-admin-edit.php:46
+msgid "Views (default is \"Agenda Week\")"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:39
+#: includes/views/single-calendar-admin-edit.php:48
+msgid "Agenda Week"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:40
+#: includes/views/single-calendar-admin-edit.php:49
+msgid "Agenda Day"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:41
+#: includes/views/single-calendar-admin-edit.php:50
+msgid "Basic Week"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:42
+#: includes/views/single-calendar-admin-edit.php:51
+msgid "Basic Day"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:43
+#: includes/views/single-calendar-admin-edit.php:52
+msgid "Month"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:44
+#: includes/views/single-calendar-admin-edit.php:53
+msgid "Custom view & duration"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:48
+#: includes/views/single-calendar-admin-edit.php:57
+msgid "Please, specify type of view and the number of days to display."
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:51
+#: includes/views/single-calendar-admin-edit.php:60
+msgid "Type of view (default is \"agenda\")"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:53
+#: includes/views/single-calendar-admin-edit.php:62
+msgid "Agenda"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:54
+#: includes/views/single-calendar-admin-edit.php:63
+msgid "Basic"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:59
+msgid "Duration (number of days; digits only; default is \"4\")"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:65
+#: includes/views/single-calendar-admin-edit.php:74
+msgid "Range of hours available for each day"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:68
+#: includes/views/single-calendar-admin-edit.php:77
+msgid "Min. start time (hour)"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:71
+#: includes/views/single-calendar-admin-edit.php:80
+msgid "Max. end time (hour)"
+msgstr ""
+
+#: includes/views/single-calendar-admin-add.php:78
+#: includes/views/single-calendar-admin.php:239
+msgid "Create"
+msgstr ""
+
+#: includes/views/single-calendar-admin-edit.php:68
+msgid "Calendar period (number of days; digits only; default is \"4\")"
+msgstr ""
+
+#: includes/views/single-calendar-admin-edit.php:87
+msgid "Update"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:190
+msgid "Create new event"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:198
+#: includes/views/single-calendar-admin.php:255
+msgid "Title"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:203
+#: includes/views/single-calendar-admin.php:260
+msgid "Category"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:212
+#: includes/views/single-calendar-admin.php:269
+msgid "No event categories created."
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:218
+#: includes/views/single-calendar-admin.php:275
+msgid "Description"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:223
+#: includes/views/single-calendar-admin.php:280
+msgid "Instructor"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:227
+#: includes/views/single-calendar-admin.php:284
+msgid "Please choose..."
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:233
+#: includes/views/single-calendar-admin.php:290
+msgid "No instructors found."
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:245
+#: includes/views/single-calendar-admin.php:296
+msgid "Edit event"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:311
+msgid "Make a copy of this event on..."
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:316
+msgid "Make a copy"
+msgstr ""
+
+#: includes/views/single-calendar-admin.php:323
+msgid "The ID of the calendar is not specified!"
+msgstr ""
+
+#: uni-events-calendar.php:108
+msgid "New Calendar"
+msgstr ""
+
+#: uni-events-calendar.php:109
+msgid "Add New Calendar"
+msgstr ""
+
+#: uni-events-calendar.php:110
+msgid "Edit Calendar"
+msgstr ""
+
+#: uni-events-calendar.php:111
+msgid "All calendars"
+msgstr ""
+
+#: uni-events-calendar.php:112
+msgid "View Calendar"
+msgstr ""
+
+#: uni-events-calendar.php:113
+msgid "Search calendars"
+msgstr ""
+
+#: uni-events-calendar.php:114
+msgid "Calendars not found"
+msgstr ""
+
+#: uni-events-calendar.php:115
+msgid "Calendars not found in cart"
+msgstr ""
+
+#: uni-events-calendar.php:139
+msgid "Event"
+msgstr ""
+
+#: uni-events-calendar.php:140
+msgid "Events"
+msgstr ""
+
+#: uni-events-calendar.php:141
+msgid "New Event"
+msgstr ""
+
+#: uni-events-calendar.php:142
+msgid "Add New Event"
+msgstr ""
+
+#: uni-events-calendar.php:143
+msgid "Edit Event"
+msgstr ""
+
+#: uni-events-calendar.php:144
+msgid "All events"
+msgstr ""
+
+#: uni-events-calendar.php:145
+msgid "View Event"
+msgstr ""
+
+#: uni-events-calendar.php:146
+msgid "Search events"
+msgstr ""
+
+#: uni-events-calendar.php:147
+msgid "Events not found"
+msgstr ""
+
+#: uni-events-calendar.php:148
+msgid "Events not found in cart"
+msgstr ""
+
+#: uni-events-calendar.php:150
+msgid "Uni Calendar Events"
+msgstr ""
+
+#: uni-events-calendar.php:442 uni-events-calendar.php:488
+msgid "Uni Events Calendars additional fields"
+msgstr ""
+
+#: uni-events-calendar.php:444 uni-events-calendar.php:492
+msgid "Background colour"
+msgstr ""
+
+#: uni-events-calendar.php:446 uni-events-calendar.php:495
+msgid "Background colour for events in this category (optional)"
+msgstr ""
+
+#: uni-events-calendar.php:449 uni-events-calendar.php:499
+msgid "Border colour"
+msgstr ""
+
+#: uni-events-calendar.php:451 uni-events-calendar.php:502
+msgid "Border colour for events in this category (optional)."
+msgstr ""

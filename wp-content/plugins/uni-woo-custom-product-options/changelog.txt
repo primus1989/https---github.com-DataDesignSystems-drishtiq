@@ -1,0 +1,76 @@
+Version 1.5.5
+- Fix: issue with translation
+
+Version 1.5.4
+- Updated: ParsleyJs to 2.2.0-rc1
+- Fix: bug with validating 'zero' in input type fields
+
+Version 1.5.3
+- Fix: bug appears when trying to edit conditionals
+- Fix: bug with formatting the price for calculation needs
+
+Version 1.5.2
+- Fix: some minor bugs
+
+Version 1.5.1
+- Added: now 'input number' fields are supported in conditional rules
+
+Version 1.5
+- Added: js validation for some fields
+- Added: new type of the fields called 'input number'
+- Added: min, max and def value for inputs
+- Changes: the price is hidden until all required fields are filled/chosen
+- Improvements: some code improvements
+- Update: updated the documentation for the plugin
+
+Version 1.4.6
+- Fix: fixed several minor bugs
+
+Version 1.4.5
+- Fix: now users can use commas in decimals and such inputs will be correctly recognized and transformed into proper decimal numbers
+
+Version 1.4.4
+- Fix: fixed several minor bugs
+
+Version 1.4.3
+- Fix: fixed several minor bugs
+
+Version 1.4.2
+- Added: an ability to define min, max, starting value and increment step for a product quantity field
+- Added: added support of conditional formulas for 'dropdown', 'checkbox', 'radio', 'color' (works only with 'is' and 'is not' comparison operators!)
+- Fix: fixed several minor bugs
+
+Version 1.4
+- Added: an ability to create conditional formulas (works for 'input' type fields and quantity)
+- Changed: some improvements in the code
+
+Version 1.3.3
+- Fix: fixed a bug related to text input fileds
+- Added: Danish translation (thx to nebojsa brnjasevic)
+
+Version 1.3.2
+- Hot-Fix: fixed logic in min. price calculation
+- Added: Serbian translation (thx to nebojsa brnjasevic)
+
+Version 1.3.1
+- Hot-Fix: fixed logic in 'checkboxes' type fields with image added
+
+Version 1.3
+- Added: compatibility with WC 2.3+
+- Change: the plugin now works only with WC 2.3+
+- Fix: some small bug fixes
+- Added: French translation (thx to Christophe Tiget!)
+
+Version 1.2.1
+- Fix: bug related to decimals separator symbol
+
+Version 1.2:
+- Change: 4 digits after comma instead of 2 digits
+- Fix: some corections in texts
+- Fix: functionality of color inputs
+- Added: new type of field 'checkbox_multiple'
+- Added: discounts based on quantity
+- Fix-Change: product with enabled price calculation can't be added to cart from any page except of single product page
+
+Version 1.0:
+- Release
